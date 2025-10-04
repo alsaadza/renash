@@ -1,0 +1,4374 @@
+[
+  {
+    "title": "The Catbird Seat",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fine Dining",
+      "American",
+      "Experiential"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/b3/16/11/the-catbird-seat.jpg?w=700&h=-1&s=1",
+    "eventURL": "https://thecatbirdseatrestaurant.com/",
+    "description": "An intimate, ever-evolving culinary experience."
+  },
+  {
+    "title": "Hattie B's Hot Chicken",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Hot Chicken",
+      "Casual"
+    ],
+    "imageURL": "https://cdn.prod.website-files.com/643d59ec34f67a709d4fb759/66180b51f2871a08e21ab627_HBS-Web-AboutUs-FoodHero.jpg",
+    "eventURL": "https://hattieb.com/",
+    "description": "Nashville's famous hot chicken joint."
+  },
+  {
+    "title": "Rolf and Daughters",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "New American",
+      "Trendy"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5702b3a7b654f934aede9656/1c29436b-aaf8-49fd-a1c6-efb1539d58c1/20211202_RAD_158%5Bcompressed2%5D.jpg",
+    "eventURL": "https://rolfanddaughters.com/",
+    "description": "Industrial-chic spot for house-made pasta."
+  },
+  {
+    "title": "City House",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Pizza",
+      "Farm-to-Table"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/51237314-3?width=752&height=752&webp=true",
+    "eventURL": "https://cityhousenashville.com/",
+    "description": "Wood-fired pizzas and seasonal Italian dishes."
+  },
+  {
+    "title": "The 404 Kitchen",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Modern American",
+      "Fine Dining"
+    ],
+    "imageURL": "https://images.getbento.com/accounts/df0417a631c52752f0bc14cc199ebd09/media/images/76377404_kitchen_.jpg?w=1000&fit=max&auto=compress,format&h=1000",
+    "eventURL": "https://the404nashville.com/",
+    "description": "Refined modern American cuisine."
+  },
+  {
+    "title": "Biscuit Love Gulch",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Southern"
+    ],
+    "imageURL": "https://nashvillego.s3.us-east-2.amazonaws.com/images/tours/biscuit-love-gulch/biscuit-love-gulch-interior-with-bar.jpeg",
+    "eventURL": "https://biscuitlove.com/",
+    "description": "Popular spot for creative biscuit dishes."
+  },
+  {
+    "title": "Five Daughters Bakery",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Bakery",
+      "Donuts",
+      "Dessert"
+    ],
+    "imageURL": "https://nashvillego.s3.us-east-2.amazonaws.com/images/tours/fivedaughters12south/five-daughters-smores.jpeg",
+    "eventURL": "https://fivedaughtersbakery.com/",
+    "description": "Famous for 100-layer donuts."
+  },
+  {
+    "title": "Prince's Hot Chicken Shack",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Hot Chicken",
+      "Southern",
+      "Historic"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/64dd0ef2a5ba5758e22409e9/87c1b3ef-48af-4514-a708-3d0a286783f8/Screen+Shot+2023-08-16+at+2.40.41+PM.jpg",
+    "eventURL": "https://www.princeshotchicken.com/",
+    "description": "The original hot chicken establishment."
+  },
+  {
+    "title": "Pinewood Social",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Coffee",
+      "Cocktails",
+      "Bowling"
+    ],
+    "imageURL": "https://cdn.shopify.com/s/files/1/0842/5914/3999/files/Hero-new.jpg?v=1708530642",
+    "eventURL": "https://pinewoodsocial.com/",
+    "description": "Versatile space with dining, bowling, and a pool."
+  },
+  {
+    "title": "Bakersfield",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Tacos",
+      "Whiskey"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/82/30/28/bar-inside.jpg?w=900&h=500&s=1",
+    "eventURL": "https://bakersfieldtacos.com/nashville/",
+    "description": "Authentic Mexican street fare and tequilas."
+  },
+  {
+    "title": "Bok Choy",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Asian Fusion",
+      "Chinese",
+      "Noodles"
+    ],
+    "imageURL": "https://nashvillelifestyles.com/downloads/51255/download/Screenshot%202024-09-27%20at%201.09.43%20PM.png?cb=a8050b30c2568a8a4f3ce53f595abb52",
+    "eventURL": "https://bokchoynashville.com/",
+    "description": "Modern Asian fusion cuisine."
+  },
+  {
+    "title": "Miel Restaurant",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "French",
+      "Farm-to-Table",
+      "Romantic"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/59cb0f83017db2431109b692/1667693669954-UCJMJ0JLLZO55OSCUVGB/IMG_0721.jpg",
+    "eventURL": "https://mielrestaurant.com/",
+    "description": "Rustic French dining in a charming setting."
+  },
+  {
+    "title": "Lockeland Table",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "New American",
+      "Pizza",
+      "Community"
+    ],
+    "imageURL": "https://nashvillego.s3.us-east-2.amazonaws.com/images/tours/lockelandtable/lockeland-table-interior.jpeg",
+    "eventURL": "https://lockelandtable.com/",
+    "description": "Neighborhood kitchen with wood-fired pizzas."
+  },
+  {
+    "title": "Grimey's New & Preloved Music",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee",
+      "Music Store"
+    ],
+    "imageURL": "https://www.billboard.com/wp-content/uploads/2024/07/Grimeys-storefront-billboard-pro-1260.jpg",
+    "eventURL": "https://www.grimys.com/",
+    "description": "Coffee shop inside a famous record store."
+  },
+  {
+    "title": "Merchants",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "American",
+      "Downtown"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/yprwutad/e5740214-4f13-4ebd-b352-3572ec8d48f2.jpg",
+    "eventURL": "https://merchantsnashville.com/",
+    "description": "Bistro-style dining in a historic building."
+  },
+  {
+    "title": "The Optimist",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Seafood",
+      "Oyster Bar",
+      "Coastal"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5e6004e977a0ba5f3b32c232/1595361657191-F622QYURQ7HLLKWAHAGR/optinash_06.21.20__0131+%282%29.jpg?format=2500w",
+    "eventURL": "https://theoptimistrestaurant.com/nashville/",
+    "description": "Fresh seafood and raw bar in a vibrant setting."
+  },
+  {
+    "title": "Skull's Rainbow Room",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Jazz Club",
+      "Steakhouse",
+      "Cocktails"
+    ],
+    "imageURL": "https://media.cntraveler.com/photos/5a8475a84ff8184d0cc2d9d2/16:9/w_2560,c_limit/Skull's-Rainbow-Room__2018_Skull_s-Rainbow-Room-1.jpg",
+    "eventURL": "https://skullsrainbowroom.com/",
+    "description": "Historic jazz lounge with upscale dining."
+  },
+  {
+    "title": "Puckett's Grocery & Restaurant",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "BBQ",
+      "Live Music"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/65787c111b8cbd5db8840fd2/d2a4aafa-aa75-477a-ac68-acca20582030/Puckett%27s+Restaurant-+Nashville-2.jpg",
+    "eventURL": "https://puckettsgro.com/nashville/",
+    "description": "Southern comfort food and live music."
+  },
+  {
+    "title": "Tootsie's Orchid Lounge",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Bar",
+      "Live Music",
+      "Honky Tonk"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/tootsies.png",
+    "eventURL": "https://tootsies.net/",
+    "description": "Legendary honky tonk bar on Broadway."
+  },
+  {
+    "title": "Bartaco",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Tacos",
+      "Casual",
+      "Outdoor Seating"
+    ],
+    "imageURL": "https://bartaco.com/media/BarTacoNash-5698-700x600.jpg",
+    "eventURL": "https://bartaco.com/location/nashville/",
+    "description": "Upscale street tacos and cocktails."
+  },
+  {
+    "title": "Kayne Prime Steakhouse",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Steakhouse",
+      "Fine Dining",
+      "Modern American"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/udyfienp/17eeaf6f-647b-43ed-8afd-af2f3b08b281.jpg",
+    "eventURL": "https://mstreetnashville.com/kayne-prime/",
+    "description": "Contemporary steakhouse with innovative dishes."
+  },
+  {
+    "title": "Virago",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Japanese",
+      "Sushi",
+      "Asian Fusion"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width=1920,height=1920,format=auto,fit=scale-down/asqwbztp/2c35759d-4abf-4b87-bd5c-69ed23f98250.jpg",
+    "eventURL": "https://mstreetnashville.com/virago/",
+    "description": "Stylish spot for sushi and Japanese cuisine."
+  },
+  {
+    "title": "Moto",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Modern Italian"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/fijzaehu/6079504f-22cf-489e-920c-ca18cb62137c.jpg",
+    "eventURL": "https://mstreetnashville.com/moto/",
+    "description": "Modern Italian kitchen in The Gulch."
+  },
+  {
+    "title": "Barcelona Wine Bar",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Spanish",
+      "Tapas",
+      "Wine Bar"
+    ],
+    "imageURL": "https://barcelonawinebar.com/media/barcelona_edgehill_0374-1000x419.jpg",
+    "eventURL": "https://barcelonawinebar.com/location/nashville/",
+    "description": "Lively spot for Spanish tapas and extensive wine list."
+  },
+  {
+    "title": "Jack's Bar-B-Que",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "BBQ",
+      "Southern",
+      "Casual"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/129222722-lyjpm2dz5wurcgu5ndc-moerpsi-8s1b4awe1aihtc0.jpg",
+    "eventURL": "https://jacksbarbque.com/",
+    "description": "Classic Nashville BBQ joint."
+  },
+  {
+    "title": "Nashville Farmers' Market",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Market",
+      "Food Hall",
+      "Local"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5ade9263620b8564e0cad4ce/1547750382221-ZIAOVQY2YPEYZBRV176U/MarketHouseLunch.jpeg",
+    "eventURL": "https://nashvillefarmersmarket.org/",
+    "description": "Variety of local food vendors and produce."
+  },
+  {
+    "title": "Adele's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "California Cuisine",
+      "Seasonal",
+      "Brunch"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/cb/47/1f/welcome-to-adele-s-nashville.jpg",
+    "eventURL": "https://www.adelesnashville.com/",
+    "description": "Seasonal California-inspired cuisine."
+  },
+  {
+    "title": "Folk",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "New American",
+      "Trendy"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/637b95c7d4b36e46fbd189e6/fc83ae1b-908e-4cf4-88ee-89c23e7cd530/Folk-DiningRoom-0499.jpg",
+    "eventURL": "https://goodfolk.city/",
+    "description": "Inventive pizzas and small plates."
+  },
+  {
+    "title": "Pastaria",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Pasta",
+      "Casual"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/681568451212df78ef216e8f/6420a09a-500b-4dd1-bce0-0d7d818fca51/Pastaria_Nashville_GRP1243.jpg",
+    "eventURL": "https://pastarianashville.com/",
+    "description": "Handmade pasta and wood-fired pizzas."
+  },
+  {
+    "title": "Henrietta Red",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Seafood",
+      "Oyster Bar",
+      "Modern American"
+    ],
+    "imageURL": "http://static1.squarespace.com/static/651c88de4830886d6561ae4f/661ff129fd600005241f6cff/661ff3a507187b2a04bdd5e0/1713370218861/Henrietta-Red_Andrew-Thomas-Lee-_2018_henriettared_FINAL_0001.png?format=1500w",
+    "eventURL": "https://henriettared.com/",
+    "description": "Seafood-focused restaurant with a raw bar."
+  },
+  {
+    "title": "Otaku Ramen",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Japanese",
+      "Ramen",
+      "Noodles"
+    ],
+    "imageURL": "https://otakuramen.com/wp-content/uploads/2022/11/DigitalLove_CommercialPhotography_OtakuEast_0014-scaled.jpg",
+    "eventURL": "https://otakuramen.com/",
+    "description": "Authentic Japanese ramen bowls."
+  },
+  {
+    "title": "Urban Grub",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Seafood",
+      "Steakhouse"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5e9b578fadeaff0b2e35e5d7/1589045581383-63YB3HGNZAGBWULKI1NB/urban-grub-1.jpg",
+    "eventURL": "https://urbangrub.net/",
+    "description": "Southern-inspired cuisine with an emphasis on seafood and meats."
+  },
+  {
+    "title": "Two Ten Jack",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Japanese",
+      "Izakaya",
+      "Sushi",
+      "Ramen"
+    ],
+    "imageURL": "http://twotenjack.com/nashville/wp-content/uploads/sites/2/2014/01/TTJ72-6413.jpg",
+    "eventURL": "https://twotenjack.com/",
+    "description": "Japanese pub with ramen, sushi, and small plates."
+  },
+  {
+    "title": "Rosepepper Cantina",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Margaritas",
+      "Lively"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/08/f4/c8/rosepepper-cantina.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://rosepepper.com/",
+    "description": "Popular spot for classic Mexican fare and strong margaritas."
+  },
+  {
+    "title": "Mas Tacos Por Favor",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Tacos",
+      "Casual"
+    ],
+    "imageURL": "https://nashvillego.s3.us-east-2.amazonaws.com/images/tours/mastacos/mas-tacos-exterior.jpeg",
+    "eventURL": "https://mastacos.com/",
+    "description": "Beloved hole-in-the-wall for authentic street tacos."
+  },
+  {
+    "title": "Parnassus Books",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee",
+      "Bookstore"
+    ],
+    "imageURL": "https://i2.wp.com/www.thenashvillemom.com/wp-content/uploads/2020/03/7L5A2419-scaled.jpg?fit=1024%2C683&ssl=1",
+    "eventURL": "https://www.parnassusbooks.net/",
+    "description": "Independent bookstore with a coffee bar."
+  },
+  {
+    "title": "Jeni's Splendid Ice Creams",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Ice Cream",
+      "Dessert",
+      "Gourmet"
+    ],
+    "imageURL": "https://cld.accentuate.io/556497469646/1649776989936/Jenis_Nashville_12South.jpg?v=1650027275283&options=w_1500",
+    "eventURL": "https://jenis.com/",
+    "description": "Gourmet ice cream with unique flavors."
+  },
+  {
+    "title": "Fido",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Cafe",
+      "American"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/06/Hillsboro-VIllage-Nashville-2021-23.jpg",
+    "eventURL": "https://fido.shelbyave.com/",
+    "description": "Long-standing coffeehouse with a diverse menu."
+  },
+  {
+    "title": "Crema",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Roaster"
+    ],
+    "imageURL": "https://cdn.shopify.com/s/files/1/0775/2974/3667/t/3/assets/cremaspring2022104-1688012469526.jpg?v=1688012474",
+    "eventURL": "https://crema-coffee.com/",
+    "description": "Specialty coffee roaster and cafe."
+  },
+  {
+    "title": "The Pharmacy Burger Parlor & Beer Garden",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Beer Garden",
+      "American"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/05/a8/ae/d5/beer-garden.jpg",
+    "eventURL": "https://thepharmacynashville.com/",
+    "description": "Classic burgers and extensive beer selection."
+  },
+  {
+    "title": "Edley's Bar-B-Que",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "BBQ",
+      "Southern",
+      "Casual"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5fa42899dc893d349e9781e0/1605116261898-3IGMKAM9Q3ANAZG04IQ1/Edleys-Barbque-BBQ-Nashville-Chattanooga-Restaurant-EastNashvillePatio.jpg",
+    "eventURL": "https://edleysbbq.com/",
+    "description": "Nashville style BBQ with a relaxed atmosphere."
+  },
+  {
+    "title": "Caf\u00e9 Intermezzo",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Cafe",
+      "Dessert",
+      "European"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/54/7e/c5/cafe-intermezzo.jpg?w=900&h=500&s=1",
+    "eventURL": "https://cafeintermezzo.com/",
+    "description": "European-style cafe with extensive dessert menu."
+  },
+  {
+    "title": "East Side Banh Mi",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Vietnamese",
+      "Sandwiches",
+      "Asian"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/645158907ec17f34e2f8d12a/0fbb70c2-e0c8-450f-93f6-765fdf8cda6b/Untitled+design.png",
+    "eventURL": "https://eastsidemeals.com/",
+    "description": "Authentic Vietnamese banh mi sandwiches."
+  },
+  {
+    "title": "Bolton's Spicy Chicken & Fish",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Hot Chicken",
+      "Southern",
+      "Seafood"
+    ],
+    "imageURL": "https://img.atlasobscura.com/qlkwHUjigp5rgfIM27WrzFyptWplU299vJEZARU5YmQ/rt:fit/h:400/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wOGQ2/MDQ0ZWNkNTEzMmVj/YjNfQm9sdG9uczMu/anBn.jpg",
+    "eventURL": "https://www.facebook.com/BoltonsHotChickenAndFish/",
+    "description": "Another legendary hot chicken spot."
+  },
+  {
+    "title": "Grimey's Too",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee",
+      "Record Store"
+    ],
+    "imageURL": "https://www.billboard.com/wp-content/uploads/2024/07/Grimeys-storefront-billboard-pro-1260.jpg",
+    "eventURL": "https://www.grimys.com/",
+    "description": "Sister location with more coffee and records."
+  },
+  {
+    "title": "Midtown Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Fine Dining",
+      "Classic"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5bd7079eb10f25af1fcd20cf/1541740918736-XQE3JR7DLHR0CEI1J1UZ/_MG_9984.jpg?format=2500w",
+    "eventURL": "https://midtowncafe.com/",
+    "description": "Upscale American dining, a Nashville staple."
+  },
+  {
+    "title": "Monell's Dining & Catering",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Family Style",
+      "Comfort Food"
+    ],
+    "imageURL": "https://monellstn.com/wp-content/uploads/2018/09/Monells-Dining-and-Catering-top-rated-restaurantin-Nashville-TN.jpg",
+    "eventURL": "https://monells.com/",
+    "description": "Southern comfort food served family style."
+  },
+  {
+    "title": "Loveless Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Breakfast",
+      "Biscuits"
+    ],
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/The_Loveless_Cafe_sign.jpg",
+    "eventURL": "https://lovelesscafe.com/",
+    "description": "Iconic Southern eatery famous for biscuits and preserves."
+  },
+  {
+    "title": "Burger Up",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "American",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/7c/29/63/burger-up.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://burgerup.com/",
+    "description": "Gourmet burgers with locally sourced ingredients."
+  },
+  {
+    "title": "Taco Mamacita",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Tacos",
+      "Fusion"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2023/02/Exterior-Photos-2023_-10-1024x683.jpg",
+    "eventURL": "https://tacomamacita.com/nashville/",
+    "description": "Creative tacos and margaritas."
+  },
+  {
+    "title": "Samurai Sushi",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Japanese",
+      "Sushi"
+    ],
+    "imageURL": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100046052121016",
+    "eventURL": "https://samuraisushinashville.com/",
+    "description": "Traditional sushi and Japanese dishes."
+  },
+  {
+    "title": "East Nashville Beer Works",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Brewery",
+      "Pizza",
+      "Casual"
+    ],
+    "imageURL": "https://eastnashbeerworks.com/uploads/taproom/WilCo-beer-garden-broad.JPG",
+    "eventURL": "https://enbworks.com/",
+    "description": "Local brewery with good food and outdoor space."
+  },
+  {
+    "title": "The Southern Steak & Oyster",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Steakhouse",
+      "Seafood",
+      "Southern"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5ca281aefd6793726b1af235/7b0b4356-a900-45cf-b2b5-c65c7f4faa88/Untitled+design+%2816%29.png",
+    "eventURL": "https://thesouthernnashville.com/",
+    "description": "Upscale Southern-inspired steak and oyster bar."
+  },
+  {
+    "title": "Meridian Street Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Lunch",
+      "Cafe"
+    ],
+    "imageURL": "https://static.spotapps.co/spots/d0/c8c3be1143461aaa3df770dc7bce4f/full",
+    "eventURL": "https://www.meridianstreetcafe.com/",
+    "description": "Classic American breakfast and lunch spot."
+  },
+  {
+    "title": "Thai Esane",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Thai",
+      "Spicy",
+      "Asian"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2019/08/Thai-Esane-Nashville-2-1024x683.jpg",
+    "eventURL": "https://thaiesane.com/",
+    "description": "Authentic and spicy Northeastern Thai cuisine."
+  },
+  {
+    "title": "Pelican & Pig",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "New American",
+      "Wood-fired",
+      "Seasonal"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5c366a41f93fd43123a43c18/1586889939771-KKTH6ZPVNQD6S0DBGHK5/Pelican_and_Pig_1.jpg",
+    "eventURL": "https://pelicanandpig.com/",
+    "description": "Wood-fired dishes in a cozy setting."
+  },
+  {
+    "title": "O'Charley's Restaurant + Bar",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Casual Dining"
+    ],
+    "imageURL": "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/f/e2/fe2b50f0-45f0-11ee-a3fa-9f0104e97556/64ed25f675a68.preview.jpg?crop=1254%2C658%2C0%2C88&resize=1200%2C630&order=crop%2Cresize",
+    "eventURL": "https://www.ocharleys.com/",
+    "description": "Casual American restaurant chain."
+  },
+  {
+    "title": "Chauhan Ale & Masala House",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Indian",
+      "Global",
+      "Fusion"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/xzfndvpu/2900bed4-6e6e-4829-a177-7b7d1807da80.jpeg",
+    "eventURL": "https://chauhannashville.com/",
+    "description": "Indian fusion cuisine by Chef Maneet Chauhan."
+  },
+  {
+    "title": "Bastion",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "New American",
+      "Cocktails",
+      "Small Plates"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/63c0626eaf766c4379fb79f9/c0cff0dd-ea21-441e-b1e7-39d649859c1a/Bastion-July2024-117.jpg",
+    "eventURL": "https://bastionnashville.com/",
+    "description": "Inventive cocktails and small plates in a hip setting."
+  },
+  {
+    "title": "Butchertown Hall",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "BBQ",
+      "Tex-Mex",
+      "Steakhouse"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/53ac74f4e4b07ac785324b57/1738720895805-IMWR1X1MKAUR6X5XA4OC/Y2z5bnx0.jpg",
+    "eventURL": "https://butchertownhall.com/",
+    "description": "Smoked meats and Tex-Mex inspired dishes."
+  },
+  {
+    "title": "Louie's Wine Dive & Clayton Avenue Deli",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Wine Bar",
+      "Deli"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f6/a3/77/bar.jpg?w=900&h=500&s=1",
+    "eventURL": "https://louieswinedive.com/nashville/",
+    "description": "Wine bar with American cuisine and deli sandwiches."
+  },
+  {
+    "title": "Epice",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Lebanese",
+      "Mediterranean",
+      "Middle Eastern"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/52cdba6ce4b085f715e9d784/1631222580719-G6TH3OF7LAM1Y0P7FD6C/epice_final_0021.jpg",
+    "eventURL": "https://epicenashville.com/",
+    "description": "Upscale Lebanese restaurant."
+  },
+  {
+    "title": "Mockingbird",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Global Comfort Food",
+      "Trendy"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/rlokbunj/a95a0a47-5faa-4bc0-9b2e-016417c828b0.jpg",
+    "eventURL": "https://mockingbirdnashville.com/",
+    "description": "Modern diner serving global comfort food."
+  },
+  {
+    "title": "Assembly Food Hall",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Food Hall",
+      "Variety",
+      "Entertainment"
+    ],
+    "imageURL": "https://www.assemblyfoodhall.com/uploads/sites/3/2021/04/0431-1-min.jpg",
+    "eventURL": "https://assemblyfoodhall.com/",
+    "description": "Large food hall with diverse culinary options."
+  },
+  {
+    "title": "Degthai",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Thai",
+      "Casual"
+    ],
+    "imageURL": "http://img1.wsimg.com/isteam/ip/b816a814-15ee-4ae7-abe7-5778c259c74c/5EAA797E-C20A-4A6D-8C61-EF99ADE5971F.jpeg",
+    "eventURL": "https://degthainashville.com/",
+    "description": "Casual Thai eatery."
+  },
+  {
+    "title": "Eastland Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Neighborhood Gem"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/23669052-1?width=752&height=752&webp=true",
+    "eventURL": "https://eastlandcafe.com/",
+    "description": "Neighborhood spot with a diverse American menu."
+  },
+  {
+    "title": "Desano Pizza Bakery",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Neapolitan",
+      "Italian"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4d/54/a3/interior.jpg?w=900&h=500&s=1",
+    "eventURL": "https://desanopizza.com/nashville/",
+    "description": "Authentic Neapolitan pizza."
+  },
+  {
+    "title": "Frothy Monkey",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Cafe",
+      "Brunch"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/da/2b/5a/voted-nashville-s-best.jpg?w=800&h=500&s=1",
+    "eventURL": "https://frothymonkey.com/",
+    "description": "Popular coffee shop with food menu and multiple locations."
+  },
+  {
+    "title": "The Patterson House",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Speakeasy",
+      "Cocktails",
+      "Small Plates"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fc/c4/ef/caption.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://thepattersonhouse.com/",
+    "description": "Classic speakeasy with craft cocktails."
+  },
+  {
+    "title": "Earnest Bar & Hideaway",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Bar",
+      "American",
+      "Cocktails"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/26479256-3?width=1280&height=720&webp=true",
+    "eventURL": "https://earnestbarandhideaway.com/",
+    "description": "Cozy bar with good food and drinks."
+  },
+  {
+    "title": "Husk Nashville",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Farm-to-Table",
+      "Fine Dining"
+    ],
+    "imageURL": "https://husknashville.com/wp-content/uploads/2024/11/nashville-hero@2x-scaled-1.webp",
+    "eventURL": "https://huskrestaurant.com/nashville/",
+    "description": "Celebrated Southern restaurant focusing on local ingredients."
+  },
+  {
+    "title": "Station Inn",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Live Music",
+      "Bluegrass",
+      "Casual"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/_nX0XTV5KUS6UXESmZ9buQ/348s.jpg",
+    "eventURL": "https://www.stationinn.com/",
+    "description": "Historic bluegrass music venue with light fare."
+  },
+  {
+    "title": "Little Fib",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Hotel Restaurant"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/12/6e/99/enjoy-southern-favorites.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.littlefibrestaurant.com/",
+    "description": "Restaurant inside a hotel with a modern American menu."
+  },
+  {
+    "title": "Gigi's Asian Kitchen & Sushi Bar",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sushi",
+      "Asian",
+      "Chinese"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/asqwbztp/29e8deb5-022a-48a2-8962-533f31f4416e.jpg",
+    "eventURL": "https://gigisnashville.com/",
+    "description": "Sushi and Asian cuisine."
+  },
+  {
+    "title": "Black Rabbit",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Cocktails",
+      "Comfort Food"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2017/11/Black-Rabbit-Nashville-26.jpg",
+    "eventURL": "https://blackrabbitnashville.com/",
+    "description": "Creative American dishes and craft cocktails."
+  },
+  {
+    "title": "Buttermilk Ranch",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Cafe"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/62fb9b8a2a3b737239c6904a/03886550-97a8-4ede-9ba8-9c740c9925b8/091921+WebSize-4.jpg",
+    "eventURL": "https://buttermilkranch.com/",
+    "description": "Southern-inspired breakfast and brunch."
+  },
+  {
+    "title": "417 Union",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "American",
+      "Historic"
+    ],
+    "imageURL": "https://img1.wsimg.com/isteam/ip/a3e0d61f-8f49-4b71-b45f-0263ce4ec942/huge.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
+    "eventURL": "https://417union.com/",
+    "description": "Southern dining in a historic downtown building."
+  },
+  {
+    "title": "Yats",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Cajun",
+      "Creole",
+      "Casual"
+    ],
+    "imageURL": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100051507229905",
+    "eventURL": "https://yatsrestaurant.com/",
+    "description": "Casual spot for Cajun and Creole dishes."
+  },
+  {
+    "title": "Prince's Hot Chicken South",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Hot Chicken",
+      "Southern"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/64dd0ef2a5ba5758e22409e9/87c1b3ef-48af-4514-a708-3d0a286783f8/Screen+Shot+2023-08-16+at+2.40.41+PM.jpg",
+    "eventURL": "https://www.princeshotchicken.com/",
+    "description": "Southern location of the famous hot chicken."
+  },
+  {
+    "title": "Nicky's Coal Fired",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Pizza",
+      "Coal Fired"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2016/03/Nickys-Coal-Fired-Nashville-111.jpg",
+    "eventURL": "https://nickysnashville.com/",
+    "description": "Coal-fired pizzas and Italian dishes."
+  },
+  {
+    "title": "O'Malley's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Irish Pub",
+      "Bar Food",
+      "Casual"
+    ],
+    "imageURL": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3395621815620751942",
+    "eventURL": "https://omalleysnashville.com/",
+    "description": "Traditional Irish pub with classic pub fare."
+  },
+  {
+    "title": "Midtown Coffee & Bagel",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Bagels",
+      "Breakfast"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/65377739-1?width=752&height=752&webp=true",
+    "eventURL": "https://midtowncoffeebagel.com/",
+    "description": "Local spot for coffee and fresh bagels."
+  },
+  {
+    "title": "Nashville Jam Co.",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Jams"
+    ],
+    "imageURL": "https://cdn.shopify.com/s/files/1/0261/0656/0572/files/nashville_jam_cafe_outside_480x480.jpg?v=1567527553",
+    "eventURL": "https://nashvillejamco.com/",
+    "description": "Breakfast spot known for homemade jams."
+  },
+  {
+    "title": "The Wild Cow",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Vegetarian",
+      "Vegan",
+      "Healthy"
+    ],
+    "imageURL": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064690718172",
+    "eventURL": "https://thewildcow.com/",
+    "description": "Popular vegetarian and vegan restaurant."
+  },
+  {
+    "title": "Pizza Perfect",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Casual"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/06/Hillsboro-VIllage-Nashville-2021-42-1200x630.jpg",
+    "eventURL": "https://pizzaperfect.com/",
+    "description": "Long-standing casual pizza parlor."
+  },
+  {
+    "title": "Two Boots Nashville",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Cajun",
+      "New York Style"
+    ],
+    "imageURL": "https://tb-static.uber.com/prod/image-proc/processed_images/895b7fba8c07476f588a0e10a246d2ad/fb86662148be855d931b37d6c1e5fcbe.jpeg",
+    "eventURL": "https://twoboots.com/locations/nashville-tn/",
+    "description": "New York-style pizza with a Cajun twist."
+  },
+  {
+    "title": "The Cupcake Collection",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Bakery",
+      "Cupcakes",
+      "Dessert"
+    ],
+    "imageURL": "https://tb-static.uber.com/prod/image-proc/processed_images/82992c218399b3e5d835d52264e95e81/fb86662148be855d931b37d6c1e5fcbe.jpeg",
+    "eventURL": "https://thecupcakecollection.com/",
+    "description": "Homemade cupcakes in a variety of flavors."
+  },
+  {
+    "title": "Calypso Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Caribbean",
+      "Healthy",
+      "Casual"
+    ],
+    "imageURL": "https://calypsocafe.com/wp-content/uploads/2015/03/Calypso-Cafe-19smaller.jpg",
+    "eventURL": "https://calypsocafe.com/",
+    "description": "Caribbean-inspired healthy fare."
+  },
+  {
+    "title": "Grillshack Fries & Burgers",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Fries",
+      "Casual"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/11/East-Nashville-Nashville-2021-174.jpg",
+    "eventURL": "https://grillshackfries.com/",
+    "description": "Simple and delicious burgers and fries."
+  },
+  {
+    "title": "Ryman Auditorium",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Music Venue",
+      "Cafe"
+    ],
+    "imageURL": "https://www.springermountainfarms.com/wp-content/uploads/NSH_022420_CafeLula.jpg",
+    "eventURL": "https://www.ryman.com/",
+    "description": "Historic music venue with a cafe."
+  },
+  {
+    "title": "The Sutler Saloon",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Live Music",
+      "Bar"
+    ],
+    "imageURL": "https://media.bizj.us/view/img/12210657/thesutlersaloon02sm*1200xx4352-3264-288-0.jpg",
+    "eventURL": "https://thesutler.com/",
+    "description": "Southern kitchen and saloon with live music."
+  },
+  {
+    "title": "Tailor",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Indian",
+      "Fine Dining",
+      "Experiential"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5ba94f7993a6321295355600/1711313815771-DFY104VPWLT6C5KNEZ2D/3Q6A1314_websize.jpg?format=2500w",
+    "eventURL": "https://tailornashville.com/",
+    "description": "Unique South Asian-American dinner party experience."
+  },
+  {
+    "title": "Subculture",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Sub Shop",
+      "Casual"
+    ],
+    "imageURL": "https://subculturecafe.com/wp-content/uploads/2017/10/cropped-logo-e1507566025749-1.png",
+    "eventURL": "https://subculturenashville.com/",
+    "description": "Creative and delicious sub sandwiches."
+  },
+  {
+    "title": "Fat Bottom Brewing Co.",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Brewery",
+      "Pub Food",
+      "Casual"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/62a764530854b84e31722424/8210e038-4ce2-43df-a3b6-1bde051cbd53/5-24_KickoffToSummer-5593.jpg",
+    "eventURL": "https://fatbottombrewing.com/",
+    "description": "Local brewery with a taproom and food menu."
+  },
+  {
+    "title": "The Treehouse Restaurant",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Eclectic",
+      "Dinner"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width=1920,height=1920,format=auto,fit=scale-down/qtgrkvbw/f513d0ca-61e8-41fa-95ef-7811bbfbf926.jpg",
+    "eventURL": "https://treehousenashville.com/",
+    "description": "Globally inspired dishes in a unique setting."
+  },
+  {
+    "title": "Slim & Husky's Pizza Beeria",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Brewery",
+      "Hip Hop"
+    ],
+    "imageURL": "https://i0.wp.com/slimandhuskys.com/wp-content/uploads/2019/02/pizza-oven.jpg?fit=1420%2C946&quality=85&strip=all&ssl=1",
+    "eventURL": "https://slimandhuskys.com/",
+    "description": "Artisan pizzas and local brews with a hip-hop vibe."
+  },
+  {
+    "title": "Fifth & Broadway",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Food Hall",
+      "Shopping",
+      "Variety"
+    ],
+    "imageURL": "https://platform.nashville.eater.com/wp-content/uploads/sites/16/chorus/uploads/chorus_asset/file/22345909/131912296_844765762981265_7066769737593837498_o.jpg?quality=90&strip=all&crop=1.7333984375,0,96.533203125,100",
+    "eventURL": "https://fifthandb.com/",
+    "description": "Large downtown development with many dining options."
+  },
+  {
+    "title": "Skull's Rainbow Room",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Jazz Club",
+      "Steakhouse",
+      "Cocktails"
+    ],
+    "imageURL": "https://media.cntraveler.com/photos/5a8475a84ff8184d0cc2d9d2/16:9/w_2560,c_limit/Skull's-Rainbow-Room__2018_Skull_s-Rainbow-Room-1.jpg",
+    "eventURL": "https://skullsrainbowroom.com/",
+    "description": "Historic jazz lounge with upscale dining."
+  },
+  {
+    "title": "The Pharmacy Burger Parlor & Beer Garden",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Beer Garden",
+      "American"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/05/a8/ae/d5/beer-garden.jpg",
+    "eventURL": "https://thepharmacynashville.com/",
+    "description": "Classic burgers and extensive beer selection."
+  },
+  {
+    "title": "Otaku Ramen",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Japanese",
+      "Ramen",
+      "Noodles"
+    ],
+    "imageURL": "https://otakuramen.com/wp-content/uploads/2022/11/DigitalLove_CommercialPhotography_OtakuEast_0014-scaled.jpg",
+    "eventURL": "https://otakuramen.com/",
+    "description": "Authentic Japanese ramen bowls."
+  },
+  {
+    "title": "Urban Grub",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Seafood",
+      "Steakhouse"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5e9b578fadeaff0b2e35e5d7/1589045581383-63YB3HGNZAGBWULKI1NB/urban-grub-1.jpg",
+    "eventURL": "https://urbangrub.net/",
+    "description": "Southern-inspired cuisine with an emphasis on seafood and meats."
+  },
+  {
+    "title": "Two Ten Jack",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Japanese",
+      "Izakaya",
+      "Sushi",
+      "Ramen"
+    ],
+    "imageURL": "http://twotenjack.com/nashville/wp-content/uploads/sites/2/2014/01/TTJ72-6413.jpg",
+    "eventURL": "https://twotenjack.com/",
+    "description": "Japanese pub with ramen, sushi, and small plates."
+  },
+  {
+    "title": "Rosepepper Cantina",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Margaritas",
+      "Lively"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/08/f4/c8/rosepepper-cantina.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://rosepepper.com/",
+    "description": "Popular spot for classic Mexican fare and strong margaritas."
+  },
+  {
+    "title": "Mas Tacos Por Favor",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Tacos",
+      "Casual"
+    ],
+    "imageURL": "https://nashvillego.s3.us-east-2.amazonaws.com/images/tours/mastacos/mas-tacos-exterior.jpeg",
+    "eventURL": "https://mastacos.com/",
+    "description": "Beloved hole-in-the-wall for authentic street tacos."
+  },
+  {
+    "title": "Parnassus Books",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee",
+      "Bookstore"
+    ],
+    "imageURL": "https://i2.wp.com/www.thenashvillemom.com/wp-content/uploads/2020/03/7L5A2419-scaled.jpg?fit=1024%2C683&ssl=1",
+    "eventURL": "https://www.parnassusbooks.net/",
+    "description": "Independent bookstore with a coffee bar."
+  },
+  {
+    "title": "Jeni's Splendid Ice Creams",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Ice Cream",
+      "Dessert",
+      "Gourmet"
+    ],
+    "imageURL": "https://cld.accentuate.io/556497469646/1649776989936/Jenis_Nashville_12South.jpg?v=1650027275283&options=w_1500",
+    "eventURL": "https://jenis.com/",
+    "description": "Gourmet ice cream with unique flavors."
+  },
+  {
+    "title": "Fido",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Cafe",
+      "American"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/06/Hillsboro-VIllage-Nashville-2021-23.jpg",
+    "eventURL": "https://fido.shelbyave.com/",
+    "description": "Long-standing coffeehouse with a diverse menu."
+  },
+  {
+    "title": "Crema",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Roaster"
+    ],
+    "imageURL": "https://cdn.shopify.com/s/files/1/0775/2974/3667/t/3/assets/cremaspring2022104-1688012469526.jpg?v=1688012474",
+    "eventURL": "https://crema-coffee.com/",
+    "description": "Specialty coffee roaster and cafe."
+  },
+  {
+    "title": "The Pharmacy Burger Parlor & Beer Garden",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Beer Garden",
+      "American"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/05/a8/ae/d5/beer-garden.jpg",
+    "eventURL": "https://thepharmacynashville.com/",
+    "description": "Classic burgers and extensive beer selection."
+  },
+  {
+    "title": "Edley's Bar-B-Que",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "BBQ",
+      "Southern",
+      "Casual"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5fa42899dc893d349e9781e0/1605116261898-3IGMKAM9Q3ANAZG04IQ1/Edleys-Barbque-BBQ-Nashville-Chattanooga-Restaurant-EastNashvillePatio.jpg",
+    "eventURL": "https://edleysbbq.com/",
+    "description": "Nashville style BBQ with a relaxed atmosphere."
+  },
+  {
+    "title": "Caf\u00e9 Intermezzo",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Cafe",
+      "Dessert",
+      "European"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/54/7e/c5/cafe-intermezzo.jpg?w=900&h=500&s=1",
+    "eventURL": "https://cafeintermezzo.com/",
+    "description": "European-style cafe with extensive dessert menu."
+  },
+  {
+    "title": "East Side Banh Mi",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Vietnamese",
+      "Sandwiches",
+      "Asian"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/645158907ec17f34e2f8d12a/0fbb70c2-e0c8-450f-93f6-765fdf8cda6b/Untitled+design.png",
+    "eventURL": "https://eastsidemeals.com/",
+    "description": "Authentic Vietnamese banh mi sandwiches."
+  },
+  {
+    "title": "Bolton's Spicy Chicken & Fish",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Hot Chicken",
+      "Southern",
+      "Seafood"
+    ],
+    "imageURL": "https://img.atlasobscura.com/qlkwHUjigp5rgfIM27WrzFyptWplU299vJEZARU5YmQ/rt:fit/h:400/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wOGQ2/MDQ0ZWNkNTEzMmVj/YjNfQm9sdG9uczMu/anBn.jpg",
+    "eventURL": "https://www.facebook.com/BoltonsHotChickenAndFish/",
+    "description": "Another legendary hot chicken spot."
+  },
+  {
+    "title": "Grimey's Too",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee",
+      "Record Store"
+    ],
+    "imageURL": "https://www.billboard.com/wp-content/uploads/2024/07/Grimeys-storefront-billboard-pro-1260.jpg",
+    "eventURL": "https://www.grimys.com/",
+    "description": "Sister location with more coffee and records."
+  },
+  {
+    "title": "Midtown Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Fine Dining",
+      "Classic"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5bd7079eb10f25af1fcd20cf/1541740918736-XQE3JR7DLHR0CEI1J1UZ/_MG_9984.jpg?format=2500w",
+    "eventURL": "https://midtowncafe.com/",
+    "description": "Upscale American dining, a Nashville staple."
+  },
+  {
+    "title": "Monell's Dining & Catering",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Family Style",
+      "Comfort Food"
+    ],
+    "imageURL": "https://monellstn.com/wp-content/uploads/2018/09/Monells-Dining-and-Catering-top-rated-restaurantin-Nashville-TN.jpg",
+    "eventURL": "https://monells.com/",
+    "description": "Southern comfort food served family style."
+  },
+  {
+    "title": "Loveless Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Breakfast",
+      "Biscuits"
+    ],
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/The_Loveless_Cafe_sign.jpg",
+    "eventURL": "https://lovelesscafe.com/",
+    "description": "Iconic Southern eatery famous for biscuits and preserves."
+  },
+  {
+    "title": "Burger Up",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "American",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/7c/29/63/burger-up.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://burgerup.com/",
+    "description": "Gourmet burgers with locally sourced ingredients."
+  },
+  {
+    "title": "Taco Mamacita",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Tacos",
+      "Fusion"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2023/02/Exterior-Photos-2023_-10-1024x683.jpg",
+    "eventURL": "https://tacomamacita.com/nashville/",
+    "description": "Creative tacos and margaritas."
+  },
+  {
+    "title": "Samurai Sushi",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Japanese",
+      "Sushi"
+    ],
+    "imageURL": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100046052121016",
+    "eventURL": "https://samuraisushinashville.com/",
+    "description": "Traditional sushi and Japanese dishes."
+  },
+  {
+    "title": "East Nashville Beer Works",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Brewery",
+      "Pizza",
+      "Casual"
+    ],
+    "imageURL": "https://eastnashbeerworks.com/uploads/taproom/WilCo-beer-garden-broad.JPG",
+    "eventURL": "https://enbworks.com/",
+    "description": "Local brewery with good food and outdoor space."
+  },
+  {
+    "title": "The Southern Steak & Oyster",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Steakhouse",
+      "Seafood",
+      "Southern"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5ca281aefd6793726b1af235/7b0b4356-a900-45cf-b2b5-c65c7f4faa88/Untitled+design+%2816%29.png",
+    "eventURL": "https://thesouthernnashville.com/",
+    "description": "Upscale Southern-inspired steak and oyster bar."
+  },
+  {
+    "title": "Meridian Street Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Lunch",
+      "Cafe"
+    ],
+    "imageURL": "https://static.spotapps.co/spots/d0/c8c3be1143461aaa3df770dc7bce4f/full",
+    "eventURL": "https://www.meridianstreetcafe.com/",
+    "description": "Classic American breakfast and lunch spot."
+  },
+  {
+    "title": "Thai Esane",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Thai",
+      "Spicy",
+      "Asian"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2019/08/Thai-Esane-Nashville-2-1024x683.jpg",
+    "eventURL": "https://thaiesane.com/",
+    "description": "Authentic and spicy Northeastern Thai cuisine."
+  },
+  {
+    "title": "Pelican & Pig",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "New American",
+      "Wood-fired",
+      "Seasonal"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5c366a41f93fd43123a43c18/1586889939771-KKTH6ZPVNQD6S0DBGHK5/Pelican_and_Pig_1.jpg",
+    "eventURL": "https://pelicanandpig.com/",
+    "description": "Wood-fired dishes in a cozy setting."
+  },
+  {
+    "title": "O'Charley's Restaurant + Bar",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Casual Dining"
+    ],
+    "imageURL": "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/f/e2/fe2b50f0-45f0-11ee-a3fa-9f0104e97556/64ed25f675a68.preview.jpg?crop=1254%2C658%2C0%2C88&resize=1200%2C630&order=crop%2Cresize",
+    "eventURL": "https://www.ocharleys.com/",
+    "description": "Casual American restaurant chain."
+  },
+  {
+    "title": "Chauhan Ale & Masala House",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Indian",
+      "Global",
+      "Fusion"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/xzfndvpu/2900bed4-6e6e-4829-a177-7b7d1807da80.jpeg",
+    "eventURL": "https://chauhannashville.com/",
+    "description": "Indian fusion cuisine by Chef Maneet Chauhan."
+  },
+  {
+    "title": "Bastion",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "New American",
+      "Cocktails",
+      "Small Plates"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/63c0626eaf766c4379fb79f9/c0cff0dd-ea21-441e-b1e7-39d649859c1a/Bastion-July2024-117.jpg",
+    "eventURL": "https://bastionnashville.com/",
+    "description": "Inventive cocktails and small plates in a hip setting."
+  },
+  {
+    "title": "Butchertown Hall",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "BBQ",
+      "Tex-Mex",
+      "Steakhouse"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/53ac74f4e4b07ac785324b57/1738720895805-IMWR1X1MKAUR6X5XA4OC/Y2z5bnx0.jpg",
+    "eventURL": "https://butchertownhall.com/",
+    "description": "Smoked meats and Tex-Mex inspired dishes."
+  },
+  {
+    "title": "Louie's Wine Dive & Clayton Avenue Deli",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Wine Bar",
+      "Deli"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f6/a3/77/bar.jpg?w=900&h=500&s=1",
+    "eventURL": "https://louieswinedive.com/nashville/",
+    "description": "Wine bar with American cuisine and deli sandwiches."
+  },
+  {
+    "title": "Epice",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Lebanese",
+      "Mediterranean",
+      "Middle Eastern"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/52cdba6ce4b085f715e9d784/1631222580719-G6TH3OF7LAM1Y0P7FD6C/epice_final_0021.jpg",
+    "eventURL": "https://epicenashville.com/",
+    "description": "Upscale Lebanese restaurant."
+  },
+  {
+    "title": "Mockingbird",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Global Comfort Food",
+      "Trendy"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/rlokbunj/a95a0a47-5faa-4bc0-9b2e-016417c828b0.jpg",
+    "eventURL": "https://mockingbirdnashville.com/",
+    "description": "Modern diner serving global comfort food."
+  },
+  {
+    "title": "Assembly Food Hall",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Food Hall",
+      "Variety",
+      "Entertainment"
+    ],
+    "imageURL": "https://www.assemblyfoodhall.com/uploads/sites/3/2021/04/0431-1-min.jpg",
+    "eventURL": "https://assemblyfoodhall.com/",
+    "description": "Large food hall with diverse culinary options."
+  },
+  {
+    "title": "Degthai",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Thai",
+      "Casual"
+    ],
+    "imageURL": "http://img1.wsimg.com/isteam/ip/b816a814-15ee-4ae7-abe7-5778c259c74c/5EAA797E-C20A-4A6D-8C61-EF99ADE5971F.jpeg",
+    "eventURL": "https://degthainashville.com/",
+    "description": "Casual Thai eatery."
+  },
+  {
+    "title": "Eastland Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Neighborhood Gem"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/23669052-1?width=752&height=752&webp=true",
+    "eventURL": "https://eastlandcafe.com/",
+    "description": "Neighborhood spot with a diverse American menu."
+  },
+  {
+    "title": "Desano Pizza Bakery",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Neapolitan",
+      "Italian"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/4d/54/a3/interior.jpg?w=900&h=500&s=1",
+    "eventURL": "https://desanopizza.com/nashville/",
+    "description": "Authentic Neapolitan pizza."
+  },
+  {
+    "title": "Frothy Monkey",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Cafe",
+      "Brunch"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/da/2b/5a/voted-nashville-s-best.jpg?w=800&h=500&s=1",
+    "eventURL": "https://frothymonkey.com/",
+    "description": "Popular coffee shop with food menu and multiple locations."
+  },
+  {
+    "title": "The Patterson House",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Speakeasy",
+      "Cocktails",
+      "Small Plates"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/fc/c4/ef/caption.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://thepattersonhouse.com/",
+    "description": "Classic speakeasy with craft cocktails."
+  },
+  {
+    "title": "Earnest Bar & Hideaway",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Bar",
+      "American",
+      "Cocktails"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/26479256-3?width=1280&height=720&webp=true",
+    "eventURL": "https://earnestbarandhideaway.com/",
+    "description": "Cozy bar with good food and drinks."
+  },
+  {
+    "title": "Husk Nashville",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Farm-to-Table",
+      "Fine Dining"
+    ],
+    "imageURL": "https://husknashville.com/wp-content/uploads/2024/11/nashville-hero@2x-scaled-1.webp",
+    "eventURL": "https://huskrestaurant.com/nashville/",
+    "description": "Celebrated Southern restaurant focusing on local ingredients."
+  },
+  {
+    "title": "Station Inn",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Live Music",
+      "Bluegrass",
+      "Casual"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/_nX0XTV5KUS6UXESmZ9buQ/348s.jpg",
+    "eventURL": "https://www.stationinn.com/",
+    "description": "Historic bluegrass music venue with light fare."
+  },
+  {
+    "title": "Little Fib",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Hotel Restaurant"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/12/6e/99/enjoy-southern-favorites.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.littlefibrestaurant.com/",
+    "description": "Restaurant inside a hotel with a modern American menu."
+  },
+  {
+    "title": "Gigi's Asian Kitchen & Sushi Bar",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sushi",
+      "Asian",
+      "Chinese"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/asqwbztp/29e8deb5-022a-48a2-8962-533f31f4416e.jpg",
+    "eventURL": "https://gigisnashville.com/",
+    "description": "Sushi and Asian cuisine."
+  },
+  {
+    "title": "Black Rabbit",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Cocktails",
+      "Comfort Food"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2017/11/Black-Rabbit-Nashville-26.jpg",
+    "eventURL": "https://blackrabbitnashville.com/",
+    "description": "Creative American dishes and craft cocktails."
+  },
+  {
+    "title": "Buttermilk Ranch",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Cafe"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/62fb9b8a2a3b737239c6904a/03886550-97a8-4ede-9ba8-9c740c9925b8/091921+WebSize-4.jpg",
+    "eventURL": "https://buttermilkranch.com/",
+    "description": "Southern-inspired breakfast and brunch."
+  },
+  {
+    "title": "417 Union",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "American",
+      "Historic"
+    ],
+    "imageURL": "https://img1.wsimg.com/isteam/ip/a3e0d61f-8f49-4b71-b45f-0263ce4ec942/huge.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
+    "eventURL": "https://417union.com/",
+    "description": "Southern dining in a historic downtown building."
+  },
+  {
+    "title": "Yats",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Cajun",
+      "Creole",
+      "Casual"
+    ],
+    "imageURL": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100051507229905",
+    "eventURL": "https://yatsrestaurant.com/",
+    "description": "Casual spot for Cajun and Creole dishes."
+  },
+  {
+    "title": "Prince's Hot Chicken South",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Hot Chicken",
+      "Southern"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/64dd0ef2a5ba5758e22409e9/87c1b3ef-48af-4514-a708-3d0a286783f8/Screen+Shot+2023-08-16+at+2.40.41+PM.jpg",
+    "eventURL": "https://www.princeshotchicken.com/",
+    "description": "Southern location of the famous hot chicken."
+  },
+  {
+    "title": "Nicky's Coal Fired",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Pizza",
+      "Coal Fired"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2016/03/Nickys-Coal-Fired-Nashville-111.jpg",
+    "eventURL": "https://nickysnashville.com/",
+    "description": "Coal-fired pizzas and Italian dishes."
+  },
+  {
+    "title": "O'Malley's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Irish Pub",
+      "Bar Food",
+      "Casual"
+    ],
+    "imageURL": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3395621815620751942",
+    "eventURL": "https://omalleysnashville.com/",
+    "description": "Traditional Irish pub with classic pub fare."
+  },
+  {
+    "title": "Midtown Coffee & Bagel",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Bagels",
+      "Breakfast"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/65377739-1?width=752&height=752&webp=true",
+    "eventURL": "https://midtowncoffeebagel.com/",
+    "description": "Local spot for coffee and fresh bagels."
+  },
+  {
+    "title": "Nashville Jam Co.",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Jams"
+    ],
+    "imageURL": "https://cdn.shopify.com/s/files/1/0261/0656/0572/files/nashville_jam_cafe_outside_480x480.jpg?v=1567527553",
+    "eventURL": "https://nashvillejamco.com/",
+    "description": "Breakfast spot known for homemade jams."
+  },
+  {
+    "title": "The Wild Cow",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Vegetarian",
+      "Vegan",
+      "Healthy"
+    ],
+    "imageURL": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064690718172",
+    "eventURL": "https://thewildcow.com/",
+    "description": "Popular vegetarian and vegan restaurant."
+  },
+  {
+    "title": "Pizza Perfect",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Casual"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/06/Hillsboro-VIllage-Nashville-2021-42-1200x630.jpg",
+    "eventURL": "https://pizzaperfect.com/",
+    "description": "Long-standing casual pizza parlor."
+  },
+  {
+    "title": "Two Boots Nashville",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Cajun",
+      "New York Style"
+    ],
+    "imageURL": "https://tb-static.uber.com/prod/image-proc/processed_images/895b7fba8c07476f588a0e10a246d2ad/fb86662148be855d931b37d6c1e5fcbe.jpeg",
+    "eventURL": "https://twoboots.com/locations/nashville-tn/",
+    "description": "New York-style pizza with a Cajun twist."
+  },
+  {
+    "title": "The Cupcake Collection",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Bakery",
+      "Cupcakes",
+      "Dessert"
+    ],
+    "imageURL": "https://tb-static.uber.com/prod/image-proc/processed_images/82992c218399b3e5d835d52264e95e81/fb86662148be855d931b37d6c1e5fcbe.jpeg",
+    "eventURL": "https://thecupcakecollection.com/",
+    "description": "Homemade cupcakes in a variety of flavors."
+  },
+  {
+    "title": "Calypso Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Caribbean",
+      "Healthy",
+      "Casual"
+    ],
+    "imageURL": "https://calypsocafe.com/wp-content/uploads/2015/03/Calypso-Cafe-19smaller.jpg",
+    "eventURL": "https://calypsocafe.com/",
+    "description": "Caribbean-inspired healthy fare."
+  },
+  {
+    "title": "Grillshack Fries & Burgers",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Fries",
+      "Casual"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/11/East-Nashville-Nashville-2021-174.jpg",
+    "eventURL": "https://grillshackfries.com/",
+    "description": "Simple and delicious burgers and fries."
+  },
+  {
+    "title": "Ryman Auditorium",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Music Venue",
+      "Cafe"
+    ],
+    "imageURL": "https://www.springermountainfarms.com/wp-content/uploads/NSH_022420_CafeLula.jpg",
+    "eventURL": "https://www.ryman.com/",
+    "description": "Historic music venue with a cafe."
+  },
+  {
+    "title": "The Sutler Saloon",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Live Music",
+      "Bar"
+    ],
+    "imageURL": "https://media.bizj.us/view/img/12210657/thesutlersaloon02sm*1200xx4352-3264-288-0.jpg",
+    "eventURL": "https://thesutler.com/",
+    "description": "Southern kitchen and saloon with live music."
+  },
+  {
+    "title": "Tailor",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Indian",
+      "Fine Dining",
+      "Experiential"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5ba94f7993a6321295355600/1711313815771-DFY104VPWLT6C5KNEZ2D/3Q6A1314_websize.jpg?format=2500w",
+    "eventURL": "https://tailornashville.com/",
+    "description": "Unique South Asian-American dinner party experience."
+  },
+  {
+    "title": "Subculture",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Sub Shop",
+      "Casual"
+    ],
+    "imageURL": "https://subculturecafe.com/wp-content/uploads/2017/10/cropped-logo-e1507566025749-1.png",
+    "eventURL": "https://subculturenashville.com/",
+    "description": "Creative and delicious sub sandwiches."
+  },
+  {
+    "title": "Fat Bottom Brewing Co.",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Brewery",
+      "Pub Food",
+      "Casual"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/62a764530854b84e31722424/8210e038-4ce2-43df-a3b6-1bde051cbd53/5-24_KickoffToSummer-5593.jpg",
+    "eventURL": "https://fatbottombrewing.com/",
+    "description": "Local brewery with a taproom and food menu."
+  },
+  {
+    "title": "The Treehouse Restaurant",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Eclectic",
+      "Dinner"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width=1920,height=1920,format=auto,fit=scale-down/qtgrkvbw/f513d0ca-61e8-41fa-95ef-7811bbfbf926.jpg",
+    "eventURL": "https://treehousenashville.com/",
+    "description": "Globally inspired dishes in a unique setting."
+  },
+  {
+    "title": "Slim & Husky's Pizza Beeria",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Brewery",
+      "Hip Hop"
+    ],
+    "imageURL": "https://i0.wp.com/slimandhuskys.com/wp-content/uploads/2019/02/pizza-oven.jpg?fit=1420%2C946&quality=85&strip=all&ssl=1",
+    "eventURL": "https://slimandhuskys.com/",
+    "description": "Artisan pizzas and local brews with a hip-hop vibe."
+  },
+  {
+    "title": "Fifth & Broadway",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Food Hall",
+      "Shopping",
+      "Variety"
+    ],
+    "imageURL": "https://platform.nashville.eater.com/wp-content/uploads/sites/16/chorus/uploads/chorus_asset/file/22345909/131912296_844765762981265_7066769737593837498_o.jpg?quality=90&strip=all&crop=1.7333984375,0,96.533203125,100",
+    "eventURL": "https://fifthandb.com/",
+    "description": "Large downtown development with many dining options."
+  },
+  {
+    "title": "The Bluebird Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Music Venue",
+      "Coffee",
+      "Acoustic"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/13/97/4d/caption.jpg?w=900&h=500&s=1",
+    "eventURL": "https://bluebirdcafe.com/",
+    "description": "Intimate venue for acoustic performances."
+  },
+  {
+    "title": "Nashville Hot Chicken Co.",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Hot Chicken",
+      "Casual",
+      "Southern"
+    ],
+    "imageURL": "https://platform.nashville.eater.com/wp-content/uploads/sites/16/chorus/uploads/chorus_asset/file/23647373/hattiebs_chicken1.0.0.jpg?quality=90&strip=all&crop=0,0.01453065969195,100,99.970938680616",
+    "eventURL": "https://nashvillehotchickenco.com/",
+    "description": "A classic take on Nashville hot chicken."
+  },
+  {
+    "title": "Anatolian Turkish Restaurant",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Turkish",
+      "Cultural",
+      "Mediterranean"
+    ],
+    "imageURL": "https://anatolia-restaurant.com/wp-content/uploads/2024/05/o-min.jpg",
+    "eventURL": "https://anatolianrestaurant.com/",
+    "description": "Authentic Turkish cuisine in a welcoming atmosphere."
+  },
+  {
+    "title": "Matcha Cafe MAIKO",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Matcha",
+      "Cafe",
+      "Japanese"
+    ],
+    "imageURL": "https://www.matchacafe-maiko.com/assets/img/og-imageEn.png",
+    "eventURL": "https://www.matchacafe-maiko.com/nashville",
+    "description": "Dedicated matcha cafe with desserts and drinks."
+  },
+  {
+    "title": "The Hampton Social",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Seafood",
+      "Rooftop",
+      "American",
+      "Brunch"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/vwzyjpmb/ebb3768a-b5f1-44ec-ae47-8983ffc8e143.jpg",
+    "eventURL": "https://www.thehamptonsocial.com/nashville",
+    "description": "East Coast-inspired restaurant with a popular rooftop."
+  },
+  {
+    "title": "Milk & Honey",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Cafe",
+      "Breakfast",
+      "Brunch"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1200/milk-honey-26.jpg",
+    "eventURL": "https://milkandhoneynashville.com/",
+    "description": "Chic spot for coffee, breakfast, and gelato."
+  },
+  {
+    "title": "Pancake Pantry",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Pancakes",
+      "Diner"
+    ],
+    "imageURL": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064668220402",
+    "eventURL": "https://thepancakepantry.com/",
+    "description": "Nashville's oldest and most famous pancake house."
+  },
+  {
+    "title": "O'Malley's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Irish Pub",
+      "Bar Food",
+      "Casual"
+    ],
+    "imageURL": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3395621815620751942",
+    "eventURL": "https://omalleysnashville.com/",
+    "description": "Traditional Irish pub with classic pub fare."
+  },
+  {
+    "title": "Midtown Coffee & Bagel",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Bagels",
+      "Breakfast"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/65377739-1?width=752&height=752&webp=true",
+    "eventURL": "https://midtowncoffeebagel.com/",
+    "description": "Local spot for coffee and fresh bagels."
+  },
+  {
+    "title": "Nashville Jam Co.",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Jams"
+    ],
+    "imageURL": "https://cdn.shopify.com/s/files/1/0261/0656/0572/files/nashville_jam_cafe_outside_480x480.jpg?v=1567527553",
+    "eventURL": "https://nashvillejamco.com/",
+    "description": "Breakfast spot known for homemade jams."
+  },
+  {
+    "title": "The Wild Cow",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Vegetarian",
+      "Vegan",
+      "Healthy"
+    ],
+    "imageURL": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064690718172",
+    "eventURL": "https://thewildcow.com/",
+    "description": "Popular vegetarian and vegan restaurant."
+  },
+  {
+    "title": "Pizza Perfect",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Casual"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/06/Hillsboro-VIllage-Nashville-2021-42-1200x630.jpg",
+    "eventURL": "https://pizzaperfect.com/",
+    "description": "Long-standing casual pizza parlor."
+  },
+  {
+    "title": "Two Boots Nashville",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Cajun",
+      "New York Style"
+    ],
+    "imageURL": "https://tb-static.uber.com/prod/image-proc/processed_images/895b7fba8c07476f588a0e10a246d2ad/fb86662148be855d931b37d6c1e5fcbe.jpeg",
+    "eventURL": "https://twoboots.com/locations/nashville-tn/",
+    "description": "New York-style pizza with a Cajun twist."
+  },
+  {
+    "title": "The Cupcake Collection",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Bakery",
+      "Cupcakes",
+      "Dessert"
+    ],
+    "imageURL": "https://tb-static.uber.com/prod/image-proc/processed_images/82992c218399b3e5d835d52264e95e81/fb86662148be855d931b37d6c1e5fcbe.jpeg",
+    "eventURL": "https://thecupcakecollection.com/",
+    "description": "Homemade cupcakes in a variety of flavors."
+  },
+  {
+    "title": "Calypso Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Caribbean",
+      "Healthy",
+      "Casual"
+    ],
+    "imageURL": "https://calypsocafe.com/wp-content/uploads/2015/03/Calypso-Cafe-19smaller.jpg",
+    "eventURL": "https://calypsocafe.com/",
+    "description": "Caribbean-inspired healthy fare."
+  },
+  {
+    "title": "Grillshack Fries & Burgers",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Fries",
+      "Casual"
+    ],
+    "imageURL": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/11/East-Nashville-Nashville-2021-174.jpg",
+    "eventURL": "https://grillshackfries.com/",
+    "description": "Simple and delicious burgers and fries."
+  },
+  {
+    "title": "Ryman Auditorium",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Music Venue",
+      "Cafe"
+    ],
+    "imageURL": "https://www.springermountainfarms.com/wp-content/uploads/NSH_022420_CafeLula.jpg",
+    "eventURL": "https://www.ryman.com/",
+    "description": "Historic music venue with a cafe."
+  },
+  {
+    "title": "The Sutler Saloon",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Live Music",
+      "Bar"
+    ],
+    "imageURL": "https://media.bizj.us/view/img/12210657/thesutlersaloon02sm*1200xx4352-3264-288-0.jpg",
+    "eventURL": "https://thesutler.com/",
+    "description": "Southern kitchen and saloon with live music."
+  },
+  {
+    "title": "Tailor",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Indian",
+      "Fine Dining",
+      "Experiential"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5ba94f7993a6321295355600/1711313815771-DFY104VPWLT6C5KNEZ2D/3Q6A1314_websize.jpg?format=2500w",
+    "eventURL": "https://tailornashville.com/",
+    "description": "Unique South Asian-American dinner party experience."
+  },
+  {
+    "title": "Subculture",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Sub Shop",
+      "Casual"
+    ],
+    "imageURL": "https://subculturecafe.com/wp-content/uploads/2017/10/cropped-logo-e1507566025749-1.png",
+    "eventURL": "https://subculturenashville.com/",
+    "description": "Creative and delicious sub sandwiches."
+  },
+  {
+    "title": "Fat Bottom Brewing Co.",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Brewery",
+      "Pub Food",
+      "Casual"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/62a764530854b84e31722424/8210e038-4ce2-43df-a3b6-1bde051cbd53/5-24_KickoffToSummer-5593.jpg",
+    "eventURL": "https://fatbottombrewing.com/",
+    "description": "Local brewery with a taproom and food menu."
+  },
+  {
+    "title": "The Treehouse Restaurant",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Eclectic",
+      "Dinner"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width=1920,height=1920,format=auto,fit=scale-down/qtgrkvbw/f513d0ca-61e8-41fa-95ef-7811bbfbf926.jpg",
+    "eventURL": "https://treehousenashville.com/",
+    "description": "Globally inspired dishes in a unique setting."
+  },
+  {
+    "title": "Slim & Husky's Pizza Beeria",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Brewery",
+      "Hip Hop"
+    ],
+    "imageURL": "https://i0.wp.com/slimandhuskys.com/wp-content/uploads/2019/02/pizza-oven.jpg?fit=1420%2C946&quality=85&strip=all&ssl=1",
+    "eventURL": "https://slimandhuskys.com/",
+    "description": "Artisan pizzas and local brews with a hip-hop vibe."
+  },
+  {
+    "title": "Fifth & Broadway",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Food Hall",
+      "Shopping",
+      "Variety"
+    ],
+    "imageURL": "https://platform.nashville.eater.com/wp-content/uploads/sites/16/chorus/uploads/chorus_asset/file/22345909/131912296_844765762981265_7066769737593837498_o.jpg?quality=90&strip=all&crop=1.7333984375,0,96.533203125,100",
+    "eventURL": "https://fifthandb.com/",
+    "description": "Large downtown development with many dining options."
+  },
+  {
+    "title": "The Bluebird Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Music Venue",
+      "Coffee",
+      "Acoustic"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/13/97/4d/caption.jpg?w=900&h=500&s=1",
+    "eventURL": "https://bluebirdcafe.com/",
+    "description": "Intimate venue for acoustic performances."
+  },
+  {
+    "title": "Nashville Hot Chicken Co.",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Hot Chicken",
+      "Casual",
+      "Southern"
+    ],
+    "imageURL": "https://platform.nashville.eater.com/wp-content/uploads/sites/16/chorus/uploads/chorus_asset/file/23647373/hattiebs_chicken1.0.0.jpg?quality=90&strip=all&crop=0,0.01453065969195,100,99.970938680616",
+    "eventURL": "https://nashvillehotchickenco.com/",
+    "description": "A classic take on Nashville hot chicken."
+  },
+  {
+    "title": "Anatolian Turkish Restaurant",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Turkish",
+      "Cultural",
+      "Mediterranean"
+    ],
+    "imageURL": "https://anatolia-restaurant.com/wp-content/uploads/2024/05/o-min.jpg",
+    "eventURL": "https://anatolianrestaurant.com/",
+    "description": "Authentic Turkish cuisine in a welcoming atmosphere."
+  },
+  {
+    "title": "Matcha Cafe MAIKO",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Matcha",
+      "Cafe",
+      "Japanese"
+    ],
+    "imageURL": "https://www.matchacafe-maiko.com/assets/img/og-imageEn.png",
+    "eventURL": "https://www.matchacafe-maiko.com/nashville",
+    "description": "Dedicated matcha cafe with desserts and drinks."
+  },
+  {
+    "title": "The Hampton Social",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Seafood",
+      "Rooftop",
+      "American",
+      "Brunch"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/vwzyjpmb/ebb3768a-b5f1-44ec-ae47-8983ffc8e143.jpg",
+    "eventURL": "https://www.thehamptonsocial.com/nashville",
+    "description": "East Coast-inspired restaurant with a popular rooftop."
+  },
+  {
+    "title": "Milk & Honey",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Cafe",
+      "Breakfast",
+      "Brunch"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1200/milk-honey-26.jpg",
+    "eventURL": "https://milkandhoneynashville.com/",
+    "description": "Chic spot for coffee, breakfast, and gelato."
+  },
+  {
+    "title": "Pancake Pantry",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Pancakes",
+      "Diner"
+    ],
+    "imageURL": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064668220402",
+    "eventURL": "https://thepancakepantry.com/",
+    "description": "Nashville's oldest and most famous pancake house."
+  },
+  {
+    "title": "Urban Cowboy Public House",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Bar",
+      "American",
+      "Boutique Hotel"
+    ],
+    "imageURL": "https://www.urbancowboy.com/wp-content/uploads/2018/03/public-house-square.webp",
+    "eventURL": "https://www.urbancowboy.com/nashville/the-public-house",
+    "description": "Cozy bar and restaurant in a boutique hotel."
+  },
+  {
+    "title": "Lauter",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Brewery",
+      "Beer",
+      "Casual"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/5efb4c632d18f74e4f1e1e8e/85e3ada4-7206-41e4-aad1-6124d174e289/sgb-douglas-taproom.jpg",
+    "eventURL": "https://lauterbeer.com/",
+    "description": "Local craft brewery with a diverse beer selection."
+  },
+  {
+    "title": "The Mockingbird",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Global Comfort Food",
+      "Modern American"
+    ],
+    "imageURL": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/rlokbunj/a95a0a47-5faa-4bc0-9b2e-016417c828b0.jpg",
+    "eventURL": "https://mockingbirdnashville.com/",
+    "description": "Modern diner serving globally inspired comfort food."
+  },
+  {
+    "title": "Amerigo Italian Restaurant",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Classic",
+      "Pasta"
+    ],
+    "imageURL": "https://amerigo.net/wp-content/uploads/2016/11/flowoodOriginal.jpg",
+    "eventURL": "https://amerigo.net/",
+    "description": "Classic Italian dishes and a vast wine list."
+  },
+  {
+    "title": "Carrabba's Italian Grill",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Chain",
+      "Casual"
+    ],
+    "imageURL": "https://mallmaverick.imgix.net/web/property_managers/1/properties/718/stores/carrabbas_italian_grill/20200120220213/_asset_get_96722",
+    "eventURL": "https://www.carrabbas.com/",
+    "description": "Casual chain serving Italian-American cuisine."
+  },
+  {
+    "title": "Olive Garden Italian Restaurant",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Chain",
+      "Family Friendly"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/offerphoto/zEgwu1gjdDuu2l_MbTvvGw/o.jpg",
+    "eventURL": "https://www.olivegarden.com/",
+    "description": "Popular Italian-American chain restaurant."
+  },
+  {
+    "title": "Mellow Mushroom",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Casual",
+      "Funky"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/resize-mm-1500x1000-5.jpg",
+    "eventURL": "https://mellowmushroom.com/",
+    "description": "Eclectic pizza place with a wide beer selection."
+  },
+  {
+    "title": "P.F. Chang's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Asian",
+      "Chinese",
+      "Chain"
+    ],
+    "imageURL": "https://dyn.mktgcdn.com/p/pEARz0LIfulxXENxkbIsSt230dFH2hkIwcq1aSLisH8/width=500,height=500",
+    "eventURL": "https://www.pfchangs.com/",
+    "description": "Chain restaurant serving Asian-inspired cuisine."
+  },
+  {
+    "title": "The Cheesecake Factory",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Chain",
+      "Dessert"
+    ],
+    "imageURL": "https://contentstatic.com/411d7e52-1f76-4894-9c8d-ce1b8b33c8ed.jpeg",
+    "eventURL": "https://www.thecheesecakefactory.com/",
+    "description": "Extensive menu with American and international dishes."
+  },
+  {
+    "title": "Shake Shack",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Fast Casual",
+      "Shakes"
+    ],
+    "imageURL": "https://shakeshack.com/sites/default/files/styles/locations_mobile/public/location-about-02.jpg?itok=E6VOpWRc",
+    "eventURL": "https://www.shakeshack.com/",
+    "description": "Popular fast-casual burger and shake spot."
+  },
+  {
+    "title": "Five Guys",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Fries",
+      "Fast Food"
+    ],
+    "imageURL": "https://dynl.mktgcdn.com/p/uuG-RZ9lr0ncK-XqA76UC7ZAHhKc3r88ykqmtg9Hlwo/1900x1900.jpg",
+    "eventURL": "https://www.fiveguys.com/",
+    "description": "Customizable burgers and fresh-cut fries."
+  },
+  {
+    "title": "Chipotle Mexican Grill",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Fast Casual",
+      "Burritos"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/fxvZQI1TW0TlBP6Lu_VfJg/348s.jpg",
+    "eventURL": "https://www.chipotle.com/",
+    "description": "Build-your-own burritos and bowls."
+  },
+  {
+    "title": "Panera Bread",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Cafe",
+      "Bakery",
+      "Sandwiches"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/0e/91/ca/c4/panera-in-donelson-chinese.jpg",
+    "eventURL": "https://www.panerabread.com/",
+    "description": "Casual bakery-cafe with soups, salads, and sandwiches."
+  },
+  {
+    "title": "Starbucks",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Cafe",
+      "Global"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/67/7e/f8/caption.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.starbucks.com/",
+    "description": "Ubiquitous coffeehouse chain."
+  },
+  {
+    "title": "Dunkin'",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Donuts",
+      "Fast Food"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/screenshot-2024-08-14-at-120944-pm.png",
+    "eventURL": "https://www.dunkindonuts.com/",
+    "description": "Coffee and donut chain."
+  },
+  {
+    "title": "McDonald's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Burgers",
+      "Global"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/mcdonalds-broadway.jpg",
+    "eventURL": "https://www.mcdonalds.com/",
+    "description": "World-famous fast-food chain."
+  },
+  {
+    "title": "Taco Bell",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Mexican",
+      "Casual"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/e20dbed9-2d29-41fc-a07c-e87d0080128b-1-201-a.jpg",
+    "eventURL": "https://www.tacobell.com/",
+    "description": "Fast-food chain for Mexican-inspired items."
+  },
+  {
+    "title": "KFC",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Chicken",
+      "Southern"
+    ],
+    "imageURL": "https://locations.kfc.com/permanent-b0b701/assets/images/kfc-hero.ed57ffa2.jpg",
+    "eventURL": "https://www.kfc.com/",
+    "description": "Fried chicken fast-food chain."
+  },
+  {
+    "title": "Subway",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Fast Food",
+      "Healthy Options"
+    ],
+    "imageURL": "http://a.mktgcdn.com/p/kcIdWEAbf_C1nNLIlVecIVGtR48A6MLeiSCbTY_QoJE/1050x906.jpg",
+    "eventURL": "https://www.subway.com/",
+    "description": "Build-your-own sandwich chain."
+  },
+  {
+    "title": "Pizza Hut",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Food",
+      "Chain"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/SElmid8a8eVrn-MHBT7g6Q/348s.jpg",
+    "eventURL": "https://www.pizzahut.com/",
+    "description": "International pizza chain."
+  },
+  {
+    "title": "Domino's Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Food",
+      "Delivery"
+    ],
+    "imageURL": "https://dynl.mktgcdn.com/p/4a5JKMRCpNOuBWkJ0lw_ZMcMmQid-A8uV5fkb44xEv4/500x500",
+    "eventURL": "https://www.dominos.com/",
+    "description": "Pizza delivery chain."
+  },
+  {
+    "title": "Little Caesars Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Food",
+      "Value"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/sd_ZhRcX3TFZ2Z_4rzfEJg/348s.jpg",
+    "eventURL": "https://littlecaesars.com/",
+    "description": "Affordable and quick pizza."
+  },
+  {
+    "title": "Wendy's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Burgers",
+      "Casual"
+    ],
+    "imageURL": "https://dynl.mktgcdn.com/p/IqIuwfyfi12qOxK54MtSfQYHxfpxRFtNL8AMbSeNACk/1900x1068.jpg",
+    "eventURL": "https://www.wendys.com/",
+    "description": "Fast-food chain with square patties."
+  },
+  {
+    "title": "Arby's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Roast Beef",
+      "Sandwiches"
+    ],
+    "imageURL": "https://images.ctfassets.net/o19mhvm9a2cm/59bDri4nzwqjZc1tloyimc/7f5501a8072993ae0d5944c8601e87e8/Arbys-Exterior-2__1__1_.jpg",
+    "eventURL": "https://www.arbys.com/",
+    "description": "Fast-food chain known for roast beef sandwiches."
+  },
+  {
+    "title": "Chick-fil-A",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Chicken",
+      "Popular"
+    ],
+    "imageURL": "https://static.cfacdn.com/photos/restaurants/02886/large.jpg",
+    "eventURL": "https://www.chick-fil-a.com/",
+    "description": "Popular chicken sandwich fast-food chain."
+  },
+  {
+    "title": "Cracker Barrel Old Country Store",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "American",
+      "Homestyle"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e8/80/f7/cracker-barrel.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.crackerbarrel.com/",
+    "description": "Southern comfort food with a country store."
+  },
+  {
+    "title": "Texas Roadhouse",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Steakhouse",
+      "American",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/96/1d/5e/front-entrance-of-new.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.texasroadhouse.com/",
+    "description": "Casual American steakhouse chain."
+  },
+  {
+    "title": "LongHorn Steakhouse",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Steakhouse",
+      "American",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/64/53/88/interno.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.longhornsteakhouse.com/",
+    "description": "Casual steakhouse chain."
+  },
+  {
+    "title": "Outback Steakhouse",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Steakhouse",
+      "Australian",
+      "Casual"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/30092434-1?width=1280&height=720&webp=true",
+    "eventURL": "https://www.outback.com/",
+    "description": "Australian-themed steakhouse chain."
+  },
+  {
+    "title": "Red Lobster",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Seafood",
+      "Chain",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/8a/ef/a4/red-lobster.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.redlobster.com/",
+    "description": "Casual chain specializing in seafood."
+  },
+  {
+    "title": "Applebee's Grill + Bar",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Chain",
+      "Casual"
+    ],
+    "imageURL": "https://assets.restaurants.applebees.com/images/hero-image.png",
+    "eventURL": "https://www.applebees.com/",
+    "description": "Casual American dining chain."
+  },
+  {
+    "title": "TGI Fridays",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Chain",
+      "Casual"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/fJezNrc49UX9gONGNJ4YUQ/348s.jpg",
+    "eventURL": "https://www.tgifridays.com/",
+    "description": "Casual American chain with signature drinks."
+  },
+  {
+    "title": "Buffalo Wild Wings",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Wings",
+      "Sports Bar",
+      "Casual"
+    ],
+    "imageURL": "https://images.ctfassets.net/l5fkpck1mwg3/7IUNNgIpJDXJlRGU1uZ2H8/ccbab54ccab6da47cc007e75fa7943ae/25_BWW_1507350_PRODUCT_WingsTenders_10_Boneless_HoneyBBQ_2000x1500_72dpi.png",
+    "eventURL": "https://www.buffalowildwings.com/",
+    "description": "Sports bar with a focus on chicken wings."
+  },
+  {
+    "title": "Dave & Buster's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Arcade",
+      "American",
+      "Entertainment"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/47107421-3?width=752&height=752&webp=true",
+    "eventURL": "https://www.daveandbusters.com/",
+    "description": "Restaurant and arcade for all ages."
+  },
+  {
+    "title": "Hard Rock Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Music Themed",
+      "Casual"
+    ],
+    "imageURL": "https://cafe.hardrock.com/nashville/files/5444/HRC_Nashville_Exterior_Night.jpeg",
+    "eventURL": "https://www.hardrockcafe.com/location/nashville/",
+    "description": "Music-themed restaurant with American fare."
+  },
+  {
+    "title": "Rainforest Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Themed Dining",
+      "Family Friendly"
+    ],
+    "imageURL": "https://images.getbento.com/accounts/3db889a3fca226b46ccb3927ec65f27d/media/images/22704_MGL0486.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&h=600",
+    "eventURL": "https://www.rainforestcafe.com/",
+    "description": "Jungle-themed restaurant with animatronics."
+  },
+  {
+    "title": "Joe's Crab Shack",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Seafood",
+      "Casual",
+      "Chain"
+    ],
+    "imageURL": "https://images.getbento.com/accounts/edf5b1bb2b8913719a3af84304d86c2e/media/images/801565W3A4988.jpg?w=1800&fit=max&auto=compress,format&cs=origin&h=1800",
+    "eventURL": "https://www.joescrabshack.com/",
+    "description": "Casual seafood chain with a fun atmosphere."
+  },
+  {
+    "title": "The Old Spaghetti Factory",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Family Friendly",
+      "Chain"
+    ],
+    "imageURL": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3579022124972122397",
+    "eventURL": "https://www.osf.com/",
+    "description": "Family-friendly Italian restaurant in a unique setting."
+  },
+  {
+    "title": "Benihana",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Japanese",
+      "Hibachi",
+      "Teppanyaki"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/gmTzvfca_qRZbENdGMmyjw/1000s.jpg",
+    "eventURL": "https://www.benihana.com/",
+    "description": "Japanese hibachi steakhouse with showmanship."
+  },
+  {
+    "title": "Cheeseburger in Paradise",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Casual",
+      "Island Theme"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/01/e8/71/cc/cheeseburger-in-paradise.jpg",
+    "eventURL": "https://www.cheeseburgerinparadise.com/",
+    "description": "Jimmy Buffett-inspired casual American restaurant."
+  },
+  {
+    "title": "Chili's Grill & Bar",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Tex-Mex",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/4a/5a/3c/front-entrance.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://www.chilis.com/",
+    "description": "Casual dining chain with American and Tex-Mex fare."
+  },
+  {
+    "title": "Denny's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Diner",
+      "American",
+      "24/7"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/owe-pe-EVawNIpR1K9QNBw/1000s.jpg",
+    "eventURL": "https://www.dennys.com/",
+    "description": "Classic American diner open 24/7."
+  },
+  {
+    "title": "IHOP",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pancakes",
+      "Breakfast",
+      "Diner"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/28/a8/8a/o-predio.jpg?w=1200&h=1200&s=1",
+    "eventURL": "https://www.ihop.com/",
+    "description": "International House of Pancakes, a breakfast staple."
+  },
+  {
+    "title": "Waffle House",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Diner",
+      "Southern",
+      "Breakfast"
+    ],
+    "imageURL": "https://locations.wafflehouse.com/wafflehouse-clipped.png",
+    "eventURL": "https://www.wafflehouse.com/",
+    "description": "Southern diner chain known for waffles."
+  },
+  {
+    "title": "Ruby Tuesday",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Casual Dining",
+      "Salad Bar"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/KfeY0hMFHUpt-c92irpn3w/348s.jpg",
+    "eventURL": "https://www.rubytuesday.com/",
+    "description": "Casual American restaurant with a garden bar."
+  },
+  {
+    "title": "Golden Corral Buffet & Grill",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Buffet",
+      "American",
+      "Family Friendly"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/9b/fe/ff/pic-1.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://www.goldencorral.com/",
+    "description": "All-you-can-eat buffet."
+  },
+  {
+    "title": "Panda Express",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Chinese",
+      "Fast Food",
+      "Americanized"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/11/1c/c5/photo0jpg.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://www.pandaexpress.com/",
+    "description": "Fast-food Chinese-American cuisine."
+  },
+  {
+    "title": "Qdoba Mexican Eats",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Fast Casual",
+      "Burritos"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/jIBWX8M8I77uC8rPydQ2sQ/348s.jpg",
+    "eventURL": "https://www.qdoba.com/",
+    "description": "Build-your-own Mexican food."
+  },
+  {
+    "title": "Moe's Southwest Grill",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southwest",
+      "Mexican",
+      "Fast Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/32/ec/f2/photo2jpg.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.moes.com/",
+    "description": "Fresh, flavorful Southwest fare."
+  },
+  {
+    "title": "Jersey Mike's Subs",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Sub Shop",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8b/91/5f/day-of-giving-march-2018.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://www.jerseymikes.com/",
+    "description": "East Coast-style subs."
+  },
+  {
+    "title": "Jimmy John's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Fast Food",
+      "Delivery"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/jimmy-johns-3rd-ave-s.jpg",
+    "eventURL": "https://www.jimmyjohns.com/",
+    "description": "Freaky fast sandwiches."
+  },
+  {
+    "title": "Firehouse Subs",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Sub Shop",
+      "Casual"
+    ],
+    "imageURL": "https://onlinejpgtools.com/images/examples-onlinejpgtools/sunflower.jpg",
+    "eventURL": "https://www.firehousesubs.com/",
+    "description": "Firefighter-themed sub shop."
+  },
+  {
+    "title": "Jason's Deli",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Deli",
+      "Salad Bar",
+      "Casual"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/3f/c4/ac/counter-service.jpg",
+    "eventURL": "https://www.jasonsdeli.com/",
+    "description": "Deli with a large salad bar."
+  },
+  {
+    "title": "Potbelly Sandwich Shop",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Toasted",
+      "Casual"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1200/gulch-capitol-view-nashville-2021-112.jpg",
+    "eventURL": "https://www.potbelly.com/",
+    "description": "Toasted sandwiches and milkshakes."
+  },
+  {
+    "title": "Baskin-Robbins",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Ice Cream",
+      "Dessert",
+      "Chain"
+    ],
+    "imageURL": "https://a.mktgcdn.com/p/HzRWUAsTcaMtfBSq5c090Pult3y4JZkKXiOjUFacrJU/2048x1365.jpg",
+    "eventURL": "https://www.baskinrobbins.com/",
+    "description": "Famous for 31 flavors of ice cream."
+  },
+  {
+    "title": "Cold Stone Creamery",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Ice Cream",
+      "Dessert",
+      "Customizable"
+    ],
+    "imageURL": "https://coldstonecreameryfranchise.com/wp-content/uploads/2018/01/cs-600x400.jpg",
+    "eventURL": "https://www.coldstonecreamery.com/",
+    "description": "Customizable ice cream creations."
+  },
+  {
+    "title": "Dairy Queen",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Ice Cream",
+      "Fast Food",
+      "Blizzards"
+    ],
+    "imageURL": "http://www.morningsentinel.com/wp-content/uploads/2016/07/wpid-WP_IM_1468435918262__0.jpg",
+    "eventURL": "https://www.dairyqueen.com/",
+    "description": "Soft-serve ice cream and fast food."
+  },
+  {
+    "title": "Sonic Drive-In",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Drive-In",
+      "Shakes"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/9e/ec/d2/sonic-drive-in.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.sonicdrivein.com/",
+    "description": "Classic drive-in with diverse menu and drinks."
+  },
+  {
+    "title": "Papa John's Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Chain",
+      "Delivery"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/50/29/0a/papa-johns-on-hillsboro.jpg?w=700&h=400&s=1",
+    "eventURL": "https://www.papajohns.com/",
+    "description": "Pizza delivery chain."
+  },
+  {
+    "title": "Jet's Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Deep Dish",
+      "Chain"
+    ],
+    "imageURL": "https://tb-static.uber.com/prod/image-proc/processed_images/f6cd3929b1d1bdb821aeb022e96c8464/db809eadd12d21eb61044e0f3bf7c9b7.jpeg",
+    "eventURL": "https://www.jetspizza.com/",
+    "description": "Detroit-style deep dish pizza."
+  },
+  {
+    "title": "Sbarro",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Italian",
+      "Mall Food"
+    ],
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sbarro%2C_downtown_Nashville.JPG",
+    "eventURL": "https://www.sbarro.com/",
+    "description": "New York-style pizza by the slice."
+  },
+  {
+    "title": "Cici's Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Buffet",
+      "Value"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/YF8LmbRejFYDOm_DpYbEFw/348s.jpg",
+    "eventURL": "https://www.cicispizza.com/",
+    "description": "All-you-can-eat pizza buffet."
+  },
+  {
+    "title": "Blaze Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Casual",
+      "Customizable"
+    ],
+    "imageURL": "https://www.restaurantnews.com/wp-content/uploads/2015/02/Blaze-Fast-Fired-Pizza-Nashville-Tennessee.jpg",
+    "eventURL": "https://www.blazepizza.com/",
+    "description": "Build-your-own fast-fired pizzas."
+  },
+  {
+    "title": "MOD Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Casual",
+      "Customizable"
+    ],
+    "imageURL": "https://wannado.com/wp-content/uploads/2021/01/mod-pizza.jpg",
+    "eventURL": "https://modpizza.com/",
+    "description": "Made-on-demand pizzas and salads."
+  },
+  {
+    "title": "Cheddar's Scratch Kitchen",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Casual Dining",
+      "Homestyle"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/fd/24/c7/cheddar-s-scratch-kitchen.jpg?w=1100&h=1100&s=1",
+    "eventURL": "https://www.cheddars.com/",
+    "description": "American comfort food made from scratch."
+  },
+  {
+    "title": "First Watch",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Cafe"
+    ],
+    "imageURL": "https://firstwatch.com/wp-content/themes/firstwatch/assets/images/location-detail-carousel-1.jpg",
+    "eventURL": "https://www.firstwatch.com/",
+    "description": "Daytime cafe specializing in breakfast and lunch."
+  },
+  {
+    "title": "Another Broken Egg Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Cafe"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/broken-egg-downtown.jpg",
+    "eventURL": "https://anotherbrokenegg.com/",
+    "description": "Upscale breakfast, brunch, and lunch."
+  },
+  {
+    "title": "The Ainsworth",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Rooftop",
+      "Sports Bar"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/00/38/our-space-is-big-enough.jpg?w=900&h=500&s=1",
+    "eventURL": "https://theainsworth.com/nashville/",
+    "description": "Upscale American eatery with a popular rooftop."
+  },
+  {
+    "title": "Mellow Mushroom",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Casual",
+      "Funky"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/resize-mm-1500x1000-5.jpg",
+    "eventURL": "https://mellowmushroom.com/",
+    "description": "Eclectic pizza place with a wide beer selection."
+  },
+  {
+    "title": "P.F. Chang's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Asian",
+      "Chinese",
+      "Chain"
+    ],
+    "imageURL": "https://dyn.mktgcdn.com/p/pEARz0LIfulxXENxkbIsSt230dFH2hkIwcq1aSLisH8/width=500,height=500",
+    "eventURL": "https://www.pfchangs.com/",
+    "description": "Chain restaurant serving Asian-inspired cuisine."
+  },
+  {
+    "title": "The Cheesecake Factory",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Chain",
+      "Dessert"
+    ],
+    "imageURL": "https://contentstatic.com/411d7e52-1f76-4894-9c8d-ce1b8b33c8ed.jpeg",
+    "eventURL": "https://www.thecheesecakefactory.com/",
+    "description": "Extensive menu with American and international dishes."
+  },
+  {
+    "title": "Shake Shack",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Fast Casual",
+      "Shakes"
+    ],
+    "imageURL": "https://shakeshack.com/sites/default/files/styles/locations_mobile/public/location-about-02.jpg?itok=E6VOpWRc",
+    "eventURL": "https://www.shakeshack.com/",
+    "description": "Popular fast-casual burger and shake spot."
+  },
+  {
+    "title": "Five Guys",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Burgers",
+      "Fries",
+      "Fast Food"
+    ],
+    "imageURL": "https://dynl.mktgcdn.com/p/uuG-RZ9lr0ncK-XqA76UC7ZAHhKc3r88ykqmtg9Hlwo/1900x1900.jpg",
+    "eventURL": "https://www.fiveguys.com/",
+    "description": "Customizable burgers and fresh-cut fries."
+  },
+  {
+    "title": "Chipotle Mexican Grill",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Fast Casual",
+      "Burritos"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/fxvZQI1TW0TlBP6Lu_VfJg/348s.jpg",
+    "eventURL": "https://www.chipotle.com/",
+    "description": "Build-your-own burritos and bowls."
+  },
+  {
+    "title": "Panera Bread",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Cafe",
+      "Bakery",
+      "Sandwiches"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/0e/91/ca/c4/panera-in-donelson-chinese.jpg",
+    "eventURL": "https://www.panerabread.com/",
+    "description": "Casual bakery-cafe with soups, salads, and sandwiches."
+  },
+  {
+    "title": "Starbucks",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Cafe",
+      "Global"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/67/7e/f8/caption.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.starbucks.com/",
+    "description": "Ubiquitous coffeehouse chain."
+  },
+  {
+    "title": "Dunkin'",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Coffee Shop",
+      "Donuts",
+      "Fast Food"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/screenshot-2024-08-14-at-120944-pm.png",
+    "eventURL": "https://www.dunkindonuts.com/",
+    "description": "Coffee and donut chain."
+  },
+  {
+    "title": "McDonald's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Burgers",
+      "Global"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/mcdonalds-broadway.jpg",
+    "eventURL": "https://www.mcdonalds.com/",
+    "description": "World-famous fast-food chain."
+  },
+  {
+    "title": "Taco Bell",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Mexican",
+      "Casual"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/e20dbed9-2d29-41fc-a07c-e87d0080128b-1-201-a.jpg",
+    "eventURL": "https://www.tacobell.com/",
+    "description": "Fast-food chain for Mexican-inspired items."
+  },
+  {
+    "title": "KFC",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Chicken",
+      "Southern"
+    ],
+    "imageURL": "https://locations.kfc.com/permanent-b0b701/assets/images/kfc-hero.ed57ffa2.jpg",
+    "eventURL": "https://www.kfc.com/",
+    "description": "Fried chicken fast-food chain."
+  },
+  {
+    "title": "Subway",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Fast Food",
+      "Healthy Options"
+    ],
+    "imageURL": "http://a.mktgcdn.com/p/kcIdWEAbf_C1nNLIlVecIVGtR48A6MLeiSCbTY_QoJE/1050x906.jpg",
+    "eventURL": "https://www.subway.com/",
+    "description": "Build-your-own sandwich chain."
+  },
+  {
+    "title": "Pizza Hut",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Food",
+      "Chain"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/SElmid8a8eVrn-MHBT7g6Q/348s.jpg",
+    "eventURL": "https://www.pizzahut.com/",
+    "description": "International pizza chain."
+  },
+  {
+    "title": "Domino's Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Food",
+      "Delivery"
+    ],
+    "imageURL": "https://dynl.mktgcdn.com/p/4a5JKMRCpNOuBWkJ0lw_ZMcMmQid-A8uV5fkb44xEv4/500x500",
+    "eventURL": "https://www.dominos.com/",
+    "description": "Pizza delivery chain."
+  },
+  {
+    "title": "Little Caesars Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Food",
+      "Value"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/sd_ZhRcX3TFZ2Z_4rzfEJg/348s.jpg",
+    "eventURL": "https://littlecaesars.com/",
+    "description": "Affordable and quick pizza."
+  },
+  {
+    "title": "Wendy's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Burgers",
+      "Casual"
+    ],
+    "imageURL": "https://dynl.mktgcdn.com/p/IqIuwfyfi12qOxK54MtSfQYHxfpxRFtNL8AMbSeNACk/1900x1068.jpg",
+    "eventURL": "https://www.wendys.com/",
+    "description": "Fast-food chain with square patties."
+  },
+  {
+    "title": "Arby's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Roast Beef",
+      "Sandwiches"
+    ],
+    "imageURL": "https://images.ctfassets.net/o19mhvm9a2cm/59bDri4nzwqjZc1tloyimc/7f5501a8072993ae0d5944c8601e87e8/Arbys-Exterior-2__1__1_.jpg",
+    "eventURL": "https://www.arbys.com/",
+    "description": "Fast-food chain known for roast beef sandwiches."
+  },
+  {
+    "title": "Chick-fil-A",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Chicken",
+      "Popular"
+    ],
+    "imageURL": "https://static.cfacdn.com/photos/restaurants/02886/large.jpg",
+    "eventURL": "https://www.chick-fil-a.com/",
+    "description": "Popular chicken sandwich fast-food chain."
+  },
+  {
+    "title": "Cracker Barrel Old Country Store",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "American",
+      "Homestyle"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e8/80/f7/cracker-barrel.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.crackerbarrel.com/",
+    "description": "Southern comfort food with a country store."
+  },
+  {
+    "title": "Texas Roadhouse",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Steakhouse",
+      "American",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/96/1d/5e/front-entrance-of-new.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.texasroadhouse.com/",
+    "description": "Casual American steakhouse chain."
+  },
+  {
+    "title": "LongHorn Steakhouse",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Steakhouse",
+      "American",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/64/53/88/interno.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.longhornsteakhouse.com/",
+    "description": "Casual steakhouse chain."
+  },
+  {
+    "title": "Outback Steakhouse",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Steakhouse",
+      "Australian",
+      "Casual"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/30092434-1?width=1280&height=720&webp=true",
+    "eventURL": "https://www.outback.com/",
+    "description": "Australian-themed steakhouse chain."
+  },
+  {
+    "title": "Red Lobster",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Seafood",
+      "Chain",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/8a/ef/a4/red-lobster.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.redlobster.com/",
+    "description": "Casual chain specializing in seafood."
+  },
+  {
+    "title": "Applebee's Grill + Bar",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Chain",
+      "Casual"
+    ],
+    "imageURL": "https://assets.restaurants.applebees.com/images/hero-image.png",
+    "eventURL": "https://www.applebees.com/",
+    "description": "Casual American dining chain."
+  },
+  {
+    "title": "TGI Fridays",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Chain",
+      "Casual"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/fJezNrc49UX9gONGNJ4YUQ/348s.jpg",
+    "eventURL": "https://www.tgifridays.com/",
+    "description": "Casual American chain with signature drinks."
+  },
+  {
+    "title": "Buffalo Wild Wings",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Wings",
+      "Sports Bar",
+      "Casual"
+    ],
+    "imageURL": "https://images.ctfassets.net/l5fkpck1mwg3/7IUNNgIpJDXJlRGU1uZ2H8/ccbab54ccab6da47cc007e75fa7943ae/25_BWW_1507350_PRODUCT_WingsTenders_10_Boneless_HoneyBBQ_2000x1500_72dpi.png",
+    "eventURL": "https://www.buffalowildwings.com/",
+    "description": "Sports bar with a focus on chicken wings."
+  },
+  {
+    "title": "Dave & Buster's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Arcade",
+      "American",
+      "Entertainment"
+    ],
+    "imageURL": "https://resizer.otstatic.com/v3/photos/47107421-3?width=752&height=752&webp=true",
+    "eventURL": "https://www.daveandbusters.com/",
+    "description": "Restaurant and arcade for all ages."
+  },
+  {
+    "title": "Hard Rock Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Music Themed",
+      "Casual"
+    ],
+    "imageURL": "https://cafe.hardrock.com/nashville/files/5444/HRC_Nashville_Exterior_Night.jpeg",
+    "eventURL": "https://www.hardrockcafe.com/location/nashville/",
+    "description": "Music-themed restaurant with American fare."
+  },
+  {
+    "title": "Rainforest Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Themed Dining",
+      "Family Friendly"
+    ],
+    "imageURL": "https://images.getbento.com/accounts/3db889a3fca226b46ccb3927ec65f27d/media/images/22704_MGL0486.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&h=600",
+    "eventURL": "https://www.rainforestcafe.com/",
+    "description": "Jungle-themed restaurant with animatronics."
+  },
+  {
+    "title": "Joe's Crab Shack",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Seafood",
+      "Casual",
+      "Chain"
+    ],
+    "imageURL": "https://images.getbento.com/accounts/edf5b1bb2b8913719a3af84304d86c2e/media/images/801565W3A4988.jpg?w=1800&fit=max&auto=compress,format&cs=origin&h=1800",
+    "eventURL": "https://www.joescrabshack.com/",
+    "description": "Casual seafood chain with a fun atmosphere."
+  },
+  {
+    "title": "The Old Spaghetti Factory",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Italian",
+      "Family Friendly",
+      "Chain"
+    ],
+    "imageURL": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3579022124972122397",
+    "eventURL": "https://www.osf.com/",
+    "description": "Family-friendly Italian restaurant in a unique setting."
+  },
+  {
+    "title": "Benihana",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Japanese",
+      "Hibachi",
+      "Teppanyaki"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/gmTzvfca_qRZbENdGMmyjw/1000s.jpg",
+    "eventURL": "https://www.benihana.com/",
+    "description": "Japanese hibachi steakhouse with showmanship."
+  },
+  {
+    "title": "Cheeseburger in Paradise",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Casual",
+      "Island Theme"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/01/e8/71/cc/cheeseburger-in-paradise.jpg",
+    "eventURL": "https://www.cheeseburgerinparadise.com/",
+    "description": "Jimmy Buffett-inspired casual American restaurant."
+  },
+  {
+    "title": "Chili's Grill & Bar",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Tex-Mex",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/4a/5a/3c/front-entrance.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://www.chilis.com/",
+    "description": "Casual dining chain with American and Tex-Mex fare."
+  },
+  {
+    "title": "Denny's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Diner",
+      "American",
+      "24/7"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/owe-pe-EVawNIpR1K9QNBw/1000s.jpg",
+    "eventURL": "https://www.dennys.com/",
+    "description": "Classic American diner open 24/7."
+  },
+  {
+    "title": "IHOP",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pancakes",
+      "Breakfast",
+      "Diner"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/28/a8/8a/o-predio.jpg?w=1200&h=1200&s=1",
+    "eventURL": "https://www.ihop.com/",
+    "description": "International House of Pancakes, a breakfast staple."
+  },
+  {
+    "title": "Waffle House",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Diner",
+      "Southern",
+      "Breakfast"
+    ],
+    "imageURL": "https://locations.wafflehouse.com/wafflehouse-clipped.png",
+    "eventURL": "https://www.wafflehouse.com/",
+    "description": "Southern diner chain known for waffles."
+  },
+  {
+    "title": "Ruby Tuesday",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Casual Dining",
+      "Salad Bar"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/KfeY0hMFHUpt-c92irpn3w/348s.jpg",
+    "eventURL": "https://www.rubytuesday.com/",
+    "description": "Casual American restaurant with a garden bar."
+  },
+  {
+    "title": "Golden Corral Buffet & Grill",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Buffet",
+      "American",
+      "Family Friendly"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/9b/fe/ff/pic-1.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://www.goldencorral.com/",
+    "description": "All-you-can-eat buffet."
+  },
+  {
+    "title": "Panda Express",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Chinese",
+      "Fast Food",
+      "Americanized"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/11/1c/c5/photo0jpg.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://www.pandaexpress.com/",
+    "description": "Fast-food Chinese-American cuisine."
+  },
+  {
+    "title": "Qdoba Mexican Eats",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Mexican",
+      "Fast Casual",
+      "Burritos"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/jIBWX8M8I77uC8rPydQ2sQ/348s.jpg",
+    "eventURL": "https://www.qdoba.com/",
+    "description": "Build-your-own Mexican food."
+  },
+  {
+    "title": "Moe's Southwest Grill",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southwest",
+      "Mexican",
+      "Fast Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/32/ec/f2/photo2jpg.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.moes.com/",
+    "description": "Fresh, flavorful Southwest fare."
+  },
+  {
+    "title": "Jersey Mike's Subs",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Sub Shop",
+      "Casual"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8b/91/5f/day-of-giving-march-2018.jpg?w=500&h=-1&s=1",
+    "eventURL": "https://www.jerseymikes.com/",
+    "description": "East Coast-style subs."
+  },
+  {
+    "title": "Jimmy John's",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Fast Food",
+      "Delivery"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/jimmy-johns-3rd-ave-s.jpg",
+    "eventURL": "https://www.jimmyjohns.com/",
+    "description": "Freaky fast sandwiches."
+  },
+  {
+    "title": "Firehouse Subs",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Sub Shop",
+      "Casual"
+    ],
+    "imageURL": "https://onlinejpgtools.com/images/examples-onlinejpgtools/sunflower.jpg",
+    "eventURL": "https://www.firehousesubs.com/",
+    "description": "Firefighter-themed sub shop."
+  },
+  {
+    "title": "Jason's Deli",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Deli",
+      "Salad Bar",
+      "Casual"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/3f/c4/ac/counter-service.jpg",
+    "eventURL": "https://www.jasonsdeli.com/",
+    "description": "Deli with a large salad bar."
+  },
+  {
+    "title": "Potbelly Sandwich Shop",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Sandwiches",
+      "Toasted",
+      "Casual"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1200/gulch-capitol-view-nashville-2021-112.jpg",
+    "eventURL": "https://www.potbelly.com/",
+    "description": "Toasted sandwiches and milkshakes."
+  },
+  {
+    "title": "Baskin-Robbins",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Ice Cream",
+      "Dessert",
+      "Chain"
+    ],
+    "imageURL": "https://a.mktgcdn.com/p/HzRWUAsTcaMtfBSq5c090Pult3y4JZkKXiOjUFacrJU/2048x1365.jpg",
+    "eventURL": "https://www.baskinrobbins.com/",
+    "description": "Famous for 31 flavors of ice cream."
+  },
+  {
+    "title": "Cold Stone Creamery",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Ice Cream",
+      "Dessert",
+      "Customizable"
+    ],
+    "imageURL": "https://coldstonecreameryfranchise.com/wp-content/uploads/2018/01/cs-600x400.jpg",
+    "eventURL": "https://www.coldstonecreamery.com/",
+    "description": "Customizable ice cream creations."
+  },
+  {
+    "title": "Dairy Queen",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Ice Cream",
+      "Fast Food",
+      "Blizzards"
+    ],
+    "imageURL": "http://www.morningsentinel.com/wp-content/uploads/2016/07/wpid-WP_IM_1468435918262__0.jpg",
+    "eventURL": "https://www.dairyqueen.com/",
+    "description": "Soft-serve ice cream and fast food."
+  },
+  {
+    "title": "Sonic Drive-In",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Fast Food",
+      "Drive-In",
+      "Shakes"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/9e/ec/d2/sonic-drive-in.jpg?w=900&h=500&s=1",
+    "eventURL": "https://www.sonicdrivein.com/",
+    "description": "Classic drive-in with diverse menu and drinks."
+  },
+  {
+    "title": "Papa John's Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Chain",
+      "Delivery"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/50/29/0a/papa-johns-on-hillsboro.jpg?w=700&h=400&s=1",
+    "eventURL": "https://www.papajohns.com/",
+    "description": "Pizza delivery chain."
+  },
+  {
+    "title": "Jet's Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Deep Dish",
+      "Chain"
+    ],
+    "imageURL": "https://tb-static.uber.com/prod/image-proc/processed_images/f6cd3929b1d1bdb821aeb022e96c8464/db809eadd12d21eb61044e0f3bf7c9b7.jpeg",
+    "eventURL": "https://www.jetspizza.com/",
+    "description": "Detroit-style deep dish pizza."
+  },
+  {
+    "title": "Sbarro",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Italian",
+      "Mall Food"
+    ],
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sbarro%2C_downtown_Nashville.JPG",
+    "eventURL": "https://www.sbarro.com/",
+    "description": "New York-style pizza by the slice."
+  },
+  {
+    "title": "Cici's Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Buffet",
+      "Value"
+    ],
+    "imageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/YF8LmbRejFYDOm_DpYbEFw/348s.jpg",
+    "eventURL": "https://www.cicispizza.com/",
+    "description": "All-you-can-eat pizza buffet."
+  },
+  {
+    "title": "Blaze Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Casual",
+      "Customizable"
+    ],
+    "imageURL": "https://www.restaurantnews.com/wp-content/uploads/2015/02/Blaze-Fast-Fired-Pizza-Nashville-Tennessee.jpg",
+    "eventURL": "https://www.blazepizza.com/",
+    "description": "Build-your-own fast-fired pizzas."
+  },
+  {
+    "title": "MOD Pizza",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Pizza",
+      "Fast Casual",
+      "Customizable"
+    ],
+    "imageURL": "https://wannado.com/wp-content/uploads/2021/01/mod-pizza.jpg",
+    "eventURL": "https://modpizza.com/",
+    "description": "Made-on-demand pizzas and salads."
+  },
+  {
+    "title": "Cheddar's Scratch Kitchen",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Casual Dining",
+      "Homestyle"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/fd/24/c7/cheddar-s-scratch-kitchen.jpg?w=1100&h=1100&s=1",
+    "eventURL": "https://www.cheddars.com/",
+    "description": "American comfort food made from scratch."
+  },
+  {
+    "title": "First Watch",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Cafe"
+    ],
+    "imageURL": "https://firstwatch.com/wp-content/themes/firstwatch/assets/images/location-detail-carousel-1.jpg",
+    "eventURL": "https://www.firstwatch.com/",
+    "description": "Daytime cafe specializing in breakfast and lunch."
+  },
+  {
+    "title": "Another Broken Egg Cafe",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Breakfast",
+      "Brunch",
+      "Cafe"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/broken-egg-downtown.jpg",
+    "eventURL": "https://anotherbrokenegg.com/",
+    "description": "Upscale breakfast, brunch, and lunch."
+  },
+  {
+    "title": "The Ainsworth",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Rooftop",
+      "Sports Bar"
+    ],
+    "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/00/38/our-space-is-big-enough.jpg?w=900&h=500&s=1",
+    "eventURL": "https://theainsworth.com/nashville/",
+    "description": "Upscale American eatery with a popular rooftop."
+  },
+  {
+    "title": "L.A. Jackson",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Rooftop",
+      "Bar",
+      "Small Plates"
+    ],
+    "imageURL": "https://images.squarespace-cdn.com/content/v1/580bcfe7f7e0ab5e0c2a98ae/1604429658183-UR1RGBK80KNOOZDS0ABM/L.A.+Jackson+Indoor+and+Outdoor+Seating",
+    "eventURL": "https://lajacksonbar.com/",
+    "description": "Chic rooftop bar with downtown views."
+  },
+  {
+    "title": "The Twelve Thirty Club",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Honky Tonk",
+      "Rooftop"
+    ],
+    "imageURL": "https://thetwelvethirtyclub.com/wp-content/uploads/2021/09/1230-Home-Featured.jpg",
+    "eventURL": "https://thetwelvethirtyclub.com/",
+    "description": "Justin Timberlake's multi-level venue with a rooftop bar."
+  },
+  {
+    "title": "White Limozeen",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Rooftop",
+      "Cocktails",
+      "Pink Theme"
+    ],
+    "imageURL": "https://www.tennessean.com/gcdn/presto/2020/07/15/PNAS/a5c02c52-4665-48af-bd4d-39606b691319-CommercialPhotography_DigitalLove_Nashville_GraduateHotel_WhiteLimousine-57.jpg?crop=3511,2634,x198,y0",
+    "eventURL": "https://www.graduatehotels.com/nashville/hotel/white-limozeen",
+    "description": "Dolly Parton-inspired pink rooftop bar and restaurant."
+  },
+  {
+    "title": "Assembly Food Hall Rooftop",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Rooftop",
+      "Food Hall",
+      "Bars"
+    ],
+    "imageURL": "https://www.assemblyfoodhall.com/uploads/sites/3/2021/06/ACP_1073-min.jpg",
+    "eventURL": "https://assemblyfoodhall.com/",
+    "description": "Outdoor rooftop space atop the food hall."
+  },
+  {
+    "title": "Zeppelin",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Rooftop",
+      "Mediterranean",
+      "Cocktails"
+    ],
+    "imageURL": "https://lirp.cdn-website.com/9e5dacbc/dms3rep/multi/opt/image-asset+%287%29-1920w.jpeg",
+    "eventURL": "https://zeppelin.com/",
+    "description": "Mediterranean-inspired rooftop restaurant and bar."
+  },
+  {
+    "title": "Acme Feed & Seed",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Southern",
+      "Live Music",
+      "Rooftop"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/9e/e6/72/photo0jpg.jpg",
+    "eventURL": "https://www.acmefeedandseed.com/",
+    "description": "Multi-level venue with a popular rooftop on Broadway."
+  },
+  {
+    "title": "Tootsie's Orchid Lounge Rooftop",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Rooftop",
+      "Honky Tonk",
+      "Live Music"
+    ],
+    "imageURL": "https://www.therooftopguide.com/rooftop-bars-in-nashville/Bilder/tootsies-orchid-lounge-600-2.jpg",
+    "eventURL": "https://tootsies.net/",
+    "description": "Rooftop bar at the iconic honky tonk."
+  },
+  {
+    "title": "Jason Aldean's Kitchen + Bar Rooftop",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Rooftop",
+      "Country Music",
+      "Bar"
+    ],
+    "imageURL": "https://jasonaldeansbar.com/wp-content/uploads/2023/01/jason_gal_03-min.jpg",
+    "eventURL": "https://jasonaldeansbar.com/",
+    "description": "Rooftop bar overlooking Broadway."
+  },
+  {
+    "title": "Luke's 32 Bridge Food + Drink Rooftop",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Rooftop",
+      "Country Music",
+      "Bar"
+    ],
+    "imageURL": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/32lukes.jpg",
+    "eventURL": "https://lukes32bridge.com/",
+    "description": "Luke Bryan's multi-level venue with a large rooftop."
+  },
+  {
+    "title": "Blake Shelton's Ole Red Nashville Rooftop",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "Rooftop",
+      "Country Music",
+      "Bar"
+    ],
+    "imageURL": "https://olered.com/wp-content/uploads/2018/05/Ole-Red-Sky-Level-Rendering-2017-12-12-optimized.jpg?quality=100",
+    "eventURL": "https://olered.com/nashville/",
+    "description": "Rooftop bar at Blake Shelton's honky tonk."
+  },
+  {
+    "title": "Margaritaville Nashville",
+    "location": "Nashville, TN",
+    "date": "Ongoing",
+    "categories": [
+      "American",
+      "Island Theme",
+      "Rooftop"
+    ],
+    "imageURL": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/5f/7d/a9/caption.jpg",
+    "eventURL": "https://www.margaritavillenashville.com/",
+    "description": "Jimmy Buffett-themed restaurant with a rooftop bar."
+  }
+]
